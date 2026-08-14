@@ -1,0 +1,510 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Be-Organized"
+    },
+    {
+      "description": "For self-hosted services, check out awesome-selfhosted on GitHub.",
+      "items": [],
+      "title": "Cloud Services"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Datasets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Publishing and Sharing"
+    },
+    {
+      "description": "Blog/CMS Software",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ghost",
+          "description": "(): Open, Simple, non-profit; write with markdown and live preview.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-14T01:59:28Z",
+            "owner": "TryGhost",
+            "repo": "Ghost",
+            "stars": 54755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pico",
+          "description": "(): Lightweight cms, open source, no database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-07T12:49:50Z",
+            "owner": "picocms",
+            "repo": "Pico",
+            "stars": 3905
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dropplets",
+          "description": "(): Open source, simple, and elegant blog system; write in Markdown.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-02-20T16:30:52Z",
+            "owner": "johnroper100",
+            "repo": "dropplets",
+            "stars": 1615
+          }
+        }
+      ],
+      "title": "Blog and CMS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Note Taking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "eme",
+          "description": "(,,): Math support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T20:27:42Z",
+            "owner": "egoist",
+            "repo": "eme",
+            "stars": 2058
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReText",
+          "description": "(,,): ReText one of the best, even on Linux. It also supports reStructuredText input.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-19T20:08:58Z",
+            "owner": "retext-project",
+            "repo": "retext",
+            "stars": 2052
+          }
+        }
+      ],
+      "title": "Markdown"
+    },
+    {
+      "description": "Use IPython Notebook to help with your research. IPython Notebook can be previewed on GitHub directly. Here are some examples of how IPython notebook can be used.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "More",
+          "description": "For more IPython notebook on GitHub please read this enormous list.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T10:38:46Z",
+            "owner": "ipython",
+            "repo": "ipython",
+            "stars": 16774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scientific Python Lectures",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-02T22:19:39Z",
+            "owner": "jrjohansson",
+            "repo": "scientific-python-lectures",
+            "stars": 3647
+          }
+        }
+      ],
+      "title": "IPython Notebook"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Presentation Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Strut",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T03:39:52Z",
+            "owner": "tantaman",
+            "repo": "strut",
+            "stars": 1889
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hovercraft",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-04-14T14:35:12Z",
+            "owner": "regebro",
+            "repo": "hovercraft",
+            "stars": 1507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Impressionist",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2013-06-15T07:08:23Z",
+            "owner": "harish-io",
+            "repo": "Impressionist",
+            "stars": 706
+          }
+        }
+      ],
+      "title": "Online Load and Edit"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Use The Source"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Reveal.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-21T19:20:20Z",
+            "owner": "hakimel",
+            "repo": "reveal.js",
+            "stars": 72115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Impress.js",
+          "description": "more about it impress wiki page.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-23T07:05:16Z",
+            "owner": "impress",
+            "repo": "impress.js",
+            "stars": 38191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deck.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-28T20:09:58Z",
+            "owner": "imakewebthings",
+            "repo": "deck.js",
+            "stars": 5421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shower",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T19:23:17Z",
+            "owner": "shower",
+            "repo": "shower",
+            "stars": 4873
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beckpoke.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-09-08T20:46:55Z",
+            "owner": "bespokejs",
+            "repo": "bespoke",
+            "stars": 4797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSSS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-10T17:03:54Z",
+            "owner": "inspire-js",
+            "repo": "inspire.js",
+            "stars": 1752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flowtime.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-02T03:51:00Z",
+            "owner": "marcolago",
+            "repo": "flowtime.js",
+            "stars": 1343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scrolldeck",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-09T15:24:10Z",
+            "owner": "johnpolacek",
+            "repo": "scrolldeck.js",
+            "stars": 662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slides",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-22T23:29:22Z",
+            "owner": "briancavalier",
+            "repo": "slides",
+            "stars": 495
+          }
+        }
+      ],
+      "title": "HTML+CSS+JS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "IPython/Jupyter Notebook"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Programming"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Academic"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "citracer",
+          "description": "Trace citation chains for any concept across research papers. Given a source PDF (or arXiv/DOI), recursively walks the citation graph and produces an interactive HTML visualization. Supports forward and reverse tracing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T23:46:05Z",
+            "owner": "marcpinet",
+            "repo": "citracer",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ODataMap",
+          "description": "Interactive map of global scientific research. Visualizes 250M+ papers across 7 knowledge continents with AI research assistant. Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-04T17:20:38Z",
+            "owner": "CherishChenCherish",
+            "repo": "odatamap",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BGPT MCP API",
+          "description": "Search scientific papers with structured full-text experimental data (methods, results, conclusions, sample sizes, limitations, quality scores — 25+ fields per paper). Works via the Model Context Protocol with Claude, Cursor, and other AI tools. Free tier: 50 searches without authentication. Repository. MCP registry: .",
+          "children": []
+        }
+      ],
+      "title": "Investigate Papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "org-ref",
+          "description": "Citations, cross-references, indexes, glossaries, and bibtex utitlies for org-mode in Emacs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2025-12-06T14:22:16Z",
+            "owner": "jkitchin",
+            "repo": "org-ref",
+            "stars": 1430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScholarRef",
+          "description": "Convert citation styles (APA 7, Harvard, Vancouver) directly inside Word files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-10T04:20:17Z",
+            "owner": "brodie-neuro",
+            "repo": "ScholarRef",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Bibliography"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Online Discussions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Open Source"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Data Visualization and Graph Making"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "LaTeX"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "MISC"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "plot in terminal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-23T22:00:04Z",
+            "owner": "glamp",
+            "repo": "bashplotlib",
+            "stars": 1919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bashplot",
+          "description": "plot in terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-23T22:00:04Z",
+            "owner": "glamp",
+            "repo": "bashplotlib",
+            "stars": 1919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fuck",
+          "description": "correct the command by typing in fuck.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-09-30T18:49:14Z",
+            "owner": "EricFreeman",
+            "repo": "fuck",
+            "stars": 399
+          }
+        }
+      ],
+      "title": "Terminal"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T02:15:12.394Z",
+    "original_repository": "emptymalei/awesome-research",
+    "original_repository_sha": "4894f1f51eb8de6a4b4362eac30a339c60660c4d",
+    "enhanced_repository": "enhansome/enhansome-research",
+    "enhanced_repository_description": null,
+    "title": "Awesome Research Tools with stars"
+  }
+}
