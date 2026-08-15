@@ -31,10 +31,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T01:59:28Z",
+            "last_commit": "2026-08-15T01:19:19Z",
             "owner": "TryGhost",
             "repo": "Ghost",
-            "stars": 54755
+            "stars": 54766
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-06-02T22:19:39Z",
             "owner": "jrjohansson",
             "repo": "scientific-python-lectures",
-            "stars": 3647
+            "stars": 3648
           }
         }
       ],
@@ -218,7 +218,7 @@
             "last_commit": "2026-05-21T19:20:20Z",
             "owner": "hakimel",
             "repo": "reveal.js",
-            "stars": 72115
+            "stars": 72122
           }
         },
         {
@@ -232,7 +232,7 @@
             "last_commit": "2026-07-23T07:05:16Z",
             "owner": "impress",
             "repo": "impress.js",
-            "stars": 38191
+            "stars": 38192
           }
         },
         {
@@ -500,7 +500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T02:15:12.394Z",
+    "last_updated": "2026-08-15T01:26:18.425Z",
     "original_repository": "emptymalei/awesome-research",
     "original_repository_sha": "4894f1f51eb8de6a4b4362eac30a339c60660c4d",
     "enhanced_repository": "enhansome/enhansome-research",
