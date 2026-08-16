@@ -31,10 +31,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T01:19:19Z",
+            "last_commit": "2026-08-16T00:33:02Z",
             "owner": "TryGhost",
             "repo": "Ghost",
-            "stars": 54766
+            "stars": 54779
           }
         },
         {
@@ -218,7 +218,7 @@
             "last_commit": "2026-05-21T19:20:20Z",
             "owner": "hakimel",
             "repo": "reveal.js",
-            "stars": 72122
+            "stars": 72131
           }
         },
         {
@@ -232,7 +232,7 @@
             "last_commit": "2026-07-23T07:05:16Z",
             "owner": "impress",
             "repo": "impress.js",
-            "stars": 38192
+            "stars": 38193
           }
         },
         {
@@ -274,7 +274,7 @@
             "last_commit": "2020-09-08T20:46:55Z",
             "owner": "bespokejs",
             "repo": "bespoke",
-            "stars": 4797
+            "stars": 4796
           }
         },
         {
@@ -500,7 +500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T01:26:18.425Z",
+    "last_updated": "2026-08-16T01:37:45.542Z",
     "original_repository": "emptymalei/awesome-research",
     "original_repository_sha": "4894f1f51eb8de6a4b4362eac30a339c60660c4d",
     "enhanced_repository": "enhansome/enhansome-research",
