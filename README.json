@@ -31,10 +31,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T01:17:55Z",
+            "last_commit": "2026-08-19T01:18:16Z",
             "owner": "TryGhost",
             "repo": "Ghost",
-            "stars": 54792
+            "stars": 54795
           }
         },
         {
@@ -106,7 +106,7 @@
             "last_commit": "2026-08-16T17:57:50Z",
             "owner": "retext-project",
             "repo": "retext",
-            "stars": 2052
+            "stars": 2053
           }
         }
       ],
@@ -123,7 +123,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-07T10:38:46Z",
+            "last_commit": "2026-08-18T12:12:11Z",
             "owner": "ipython",
             "repo": "ipython",
             "stars": 16770
@@ -218,7 +218,7 @@
             "last_commit": "2026-05-21T19:20:20Z",
             "owner": "hakimel",
             "repo": "reveal.js",
-            "stars": 72139
+            "stars": 72146
           }
         },
         {
@@ -232,7 +232,7 @@
             "last_commit": "2026-07-23T07:05:16Z",
             "owner": "impress",
             "repo": "impress.js",
-            "stars": 38174
+            "stars": 38173
           }
         },
         {
@@ -500,7 +500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T01:25:09.031Z",
+    "last_updated": "2026-08-19T01:27:04.021Z",
     "original_repository": "emptymalei/awesome-research",
     "original_repository_sha": "4894f1f51eb8de6a4b4362eac30a339c60660c4d",
     "enhanced_repository": "enhansome/enhansome-research",
