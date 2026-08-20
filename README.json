@@ -92,7 +92,7 @@
                 "last_commit": "2025-03-10T04:04:12Z",
                 "owner": "btford",
                 "repo": "write-good",
-                "stars": 5079
+                "stars": 5081
               }
             },
             {
@@ -171,10 +171,10 @@
                 "archived": false,
                 "id": 9852918,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T12:41:30Z",
+                "last_commit": "2026-08-20T01:18:48Z",
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 54796
+                "stars": 54801
               }
             },
             {
@@ -470,7 +470,7 @@
                     "last_commit": "2026-05-21T19:20:20Z",
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72150
+                    "stars": 72154
                   }
                 },
                 {
@@ -485,7 +485,7 @@
                     "last_commit": "2026-07-23T07:05:16Z",
                     "owner": "impress",
                     "repo": "impress.js",
-                    "stars": 38174
+                    "stars": 38173
                   }
                 },
                 {
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:49:04.645Z",
+    "last_updated": "2026-08-20T01:26:17.055Z",
     "original_repository": "emptymalei/awesome-research",
     "original_repository_id": 20195519,
     "original_repository_sha": "4894f1f51eb8de6a4b4362eac30a339c60660c4d",
