@@ -17,7 +17,7 @@
                 "last_commit": "2026-01-12T16:02:04Z",
                 "owner": "readthedocs",
                 "repo": "sphinx_rtd_theme",
-                "stars": 5077
+                "stars": 5076
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2026-08-19T10:18:54Z",
                 "owner": "amperser",
                 "repo": "proselint",
-                "stars": 4563
+                "stars": 4564
               }
             },
             {
@@ -171,10 +171,10 @@
                 "archived": false,
                 "id": 9852918,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T01:18:48Z",
+                "last_commit": "2026-08-21T01:18:48Z",
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 54801
+                "stars": 54829
               }
             },
             {
@@ -276,7 +276,7 @@
                 "last_commit": "2026-08-18T12:12:11Z",
                 "owner": "ipython",
                 "repo": "ipython",
-                "stars": 16770
+                "stars": 16771
               }
             },
             {
@@ -291,7 +291,7 @@
                 "last_commit": "2026-06-02T22:19:39Z",
                 "owner": "jrjohansson",
                 "repo": "scientific-python-lectures",
-                "stars": 3647
+                "stars": 3646
               }
             }
           ],
@@ -328,7 +328,7 @@
                 "last_commit": "2024-06-18T12:28:51Z",
                 "owner": "ondras",
                 "repo": "my-mind",
-                "stars": 3365
+                "stars": 3364
               }
             },
             {
@@ -470,7 +470,7 @@
                     "last_commit": "2026-05-21T19:20:20Z",
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72154
+                    "stars": 72158
                   }
                 },
                 {
@@ -485,7 +485,7 @@
                     "last_commit": "2026-07-23T07:05:16Z",
                     "owner": "impress",
                     "repo": "impress.js",
-                    "stars": 38173
+                    "stars": 38172
                   }
                 },
                 {
@@ -718,7 +718,7 @@
                 "last_commit": "2023-06-06T13:11:08Z",
                 "owner": "daleroberts",
                 "repo": "itermplot",
-                "stars": 1499
+                "stars": 1497
               }
             }
           ],
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T01:26:17.055Z",
+    "last_updated": "2026-08-21T01:36:51.291Z",
     "original_repository": "emptymalei/awesome-research",
     "original_repository_id": 20195519,
     "original_repository_sha": "4894f1f51eb8de6a4b4362eac30a339c60660c4d",
