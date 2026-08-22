@@ -92,7 +92,7 @@
                 "last_commit": "2025-03-10T04:04:12Z",
                 "owner": "btford",
                 "repo": "write-good",
-                "stars": 5081
+                "stars": 5083
               }
             },
             {
@@ -171,10 +171,10 @@
                 "archived": false,
                 "id": 9852918,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T01:18:48Z",
+                "last_commit": "2026-08-22T01:18:58Z",
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 54829
+                "stars": 54893
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-07-07T12:49:50Z",
                 "owner": "picocms",
                 "repo": "Pico",
-                "stars": 3904
+                "stars": 3905
               }
             },
             {
@@ -276,7 +276,7 @@
                 "last_commit": "2026-08-18T12:12:11Z",
                 "owner": "ipython",
                 "repo": "ipython",
-                "stars": 16771
+                "stars": 16773
               }
             },
             {
@@ -291,7 +291,7 @@
                 "last_commit": "2026-06-02T22:19:39Z",
                 "owner": "jrjohansson",
                 "repo": "scientific-python-lectures",
-                "stars": 3646
+                "stars": 3647
               }
             }
           ],
@@ -485,7 +485,7 @@
                     "last_commit": "2026-07-23T07:05:16Z",
                     "owner": "impress",
                     "repo": "impress.js",
-                    "stars": 38172
+                    "stars": 38170
                   }
                 },
                 {
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T01:36:51.291Z",
+    "last_updated": "2026-08-22T01:25:06.931Z",
     "original_repository": "emptymalei/awesome-research",
     "original_repository_id": 20195519,
     "original_repository_sha": "4894f1f51eb8de6a4b4362eac30a339c60660c4d",
