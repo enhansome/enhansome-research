@@ -17,7 +17,7 @@
                 "last_commit": "2026-01-12T16:02:04Z",
                 "owner": "readthedocs",
                 "repo": "sphinx_rtd_theme",
-                "stars": 5074
+                "stars": 5075
               }
             },
             {
@@ -171,10 +171,10 @@
                 "archived": false,
                 "id": 9852918,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T00:33:11Z",
+                "last_commit": "2026-08-24T01:19:44Z",
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55039
+                "stars": 55045
               }
             },
             {
@@ -276,7 +276,7 @@
                 "last_commit": "2026-08-18T12:12:11Z",
                 "owner": "ipython",
                 "repo": "ipython",
-                "stars": 16773
+                "stars": 16774
               }
             },
             {
@@ -313,7 +313,7 @@
                 "last_commit": "2019-08-10T08:29:01Z",
                 "owner": "fex-team",
                 "repo": "kityminder",
-                "stars": 4871
+                "stars": 4870
               }
             },
             {
@@ -328,7 +328,7 @@
                 "last_commit": "2024-06-18T12:28:51Z",
                 "owner": "ondras",
                 "repo": "my-mind",
-                "stars": 3364
+                "stars": 3365
               }
             },
             {
@@ -343,7 +343,7 @@
                 "last_commit": "2023-02-05T10:52:38Z",
                 "owner": "drichard",
                 "repo": "mindmaps",
-                "stars": 2867
+                "stars": 2868
               }
             },
             {
@@ -388,7 +388,7 @@
                 "last_commit": "2023-02-05T10:52:38Z",
                 "owner": "drichard",
                 "repo": "mindmaps",
-                "stars": 2867
+                "stars": 2868
               }
             }
           ],
@@ -470,7 +470,7 @@
                     "last_commit": "2026-05-21T19:20:20Z",
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72164
+                    "stars": 72168
                   }
                 },
                 {
@@ -703,7 +703,7 @@
                 "last_commit": "2022-11-20T13:06:40Z",
                 "owner": "jbmouret",
                 "repo": "matplotlib_for_papers",
-                "stars": 2202
+                "stars": 2201
               }
             },
             {
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T01:39:30.797Z",
+    "last_updated": "2026-08-24T01:37:27.705Z",
     "original_repository": "emptymalei/awesome-research",
     "original_repository_id": 20195519,
     "original_repository_sha": "4894f1f51eb8de6a4b4362eac30a339c60660c4d",
