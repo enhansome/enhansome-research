@@ -186,10 +186,10 @@
                 "archived": false,
                 "id": 9852918,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T01:18:56Z",
+                "last_commit": "2026-08-25T04:30:37Z",
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55051
+                "stars": 55054
               }
             },
             {
@@ -315,7 +315,7 @@
                     "last_commit": "2026-07-10T15:01:30Z",
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18066
+                    "stars": 18065
                   }
                 }
               ],
@@ -536,7 +536,7 @@
                     "last_commit": "2026-08-24T09:06:06Z",
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72175
+                    "stars": 72180
                   }
                 },
                 {
@@ -742,7 +742,7 @@
                 "last_commit": "2026-08-23T20:02:08Z",
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 40792
+                "stars": 40793
               }
             }
           ],
@@ -932,7 +932,7 @@
                 "last_commit": "2026-08-22T17:50:41Z",
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 28293
+                "stars": 28300
               }
             }
           ],
@@ -1083,7 +1083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T01:27:04.363Z",
+    "last_updated": "2026-08-25T05:53:28.508Z",
     "original_repository": "emptymalei/awesome-research",
     "original_repository_id": 20195519,
     "original_repository_sha": "4894f1f51eb8de6a4b4362eac30a339c60660c4d",
