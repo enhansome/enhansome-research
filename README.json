@@ -32,7 +32,7 @@
                 "last_commit": "2026-01-12T16:02:04Z",
                 "owner": "readthedocs",
                 "repo": "sphinx_rtd_theme",
-                "stars": 5075
+                "stars": 5076
               }
             },
             {
@@ -186,10 +186,10 @@
                 "archived": false,
                 "id": 9852918,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T04:30:37Z",
+                "last_commit": "2026-08-26T01:18:56Z",
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55054
+                "stars": 55059
               }
             },
             {
@@ -293,7 +293,7 @@
                     "last_commit": "2026-08-16T17:57:50Z",
                     "owner": "retext-project",
                     "repo": "retext",
-                    "stars": 2053
+                    "stars": 2052
                   }
                 }
               ],
@@ -315,7 +315,7 @@
                     "last_commit": "2026-07-10T15:01:30Z",
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18065
+                    "stars": 18069
                   }
                 }
               ],
@@ -339,7 +339,7 @@
                 "archived": false,
                 "id": 658518,
                 "language": "Python",
-                "last_commit": "2026-08-24T11:05:48Z",
+                "last_commit": "2026-08-25T16:25:34Z",
                 "owner": "ipython",
                 "repo": "ipython",
                 "stars": 16773
@@ -379,7 +379,7 @@
                 "last_commit": "2019-08-10T08:29:01Z",
                 "owner": "fex-team",
                 "repo": "kityminder",
-                "stars": 4869
+                "stars": 4868
               }
             },
             {
@@ -482,7 +482,7 @@
                 "last_commit": "2026-08-04T03:39:52Z",
                 "owner": "tantaman",
                 "repo": "strut",
-                "stars": 1890
+                "stars": 1889
               }
             },
             {
@@ -536,7 +536,7 @@
                     "last_commit": "2026-08-24T09:06:06Z",
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72180
+                    "stars": 72189
                   }
                 },
                 {
@@ -578,7 +578,7 @@
                     "archived": false,
                     "id": 1035184,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-24T19:06:07Z",
+                    "last_commit": "2026-08-25T07:14:45Z",
                     "owner": "shower",
                     "repo": "shower",
                     "stars": 4874
@@ -716,7 +716,7 @@
                     "last_commit": "2024-10-06T08:26:02Z",
                     "owner": "amix",
                     "repo": "vimrc",
-                    "stars": 31795
+                    "stars": 31794
                   }
                 },
                 {
@@ -739,10 +739,10 @@
                 "archived": false,
                 "id": 40997482,
                 "language": "Vim Script",
-                "last_commit": "2026-08-23T20:02:08Z",
+                "last_commit": "2026-08-25T21:25:25Z",
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 40793
+                "stars": 40800
               }
             }
           ],
@@ -808,7 +808,7 @@
                 "last_commit": "2026-03-04T23:57:04Z",
                 "owner": "shmlkv",
                 "repo": "dna-claude-analysis",
-                "stars": 55
+                "stars": 56
               }
             }
           ],
@@ -929,10 +929,10 @@
                 "archived": false,
                 "id": 75189212,
                 "language": null,
-                "last_commit": "2026-08-22T17:50:41Z",
+                "last_commit": "2026-08-25T21:17:45Z",
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 28300
+                "stars": 28324
               }
             }
           ],
@@ -1083,7 +1083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:53:28.508Z",
+    "last_updated": "2026-08-26T01:37:08.408Z",
     "original_repository": "emptymalei/awesome-research",
     "original_repository_id": 20195519,
     "original_repository_sha": "4894f1f51eb8de6a4b4362eac30a339c60660c4d",
