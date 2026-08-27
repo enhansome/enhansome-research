@@ -186,10 +186,10 @@
                 "archived": false,
                 "id": 9852918,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T07:06:31Z",
+                "last_commit": "2026-08-27T12:02:57Z",
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55070
+                "stars": 55072
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-07-07T12:49:50Z",
                 "owner": "picocms",
                 "repo": "Pico",
-                "stars": 3904
+                "stars": 3905
               }
             },
             {
@@ -315,7 +315,7 @@
                     "last_commit": "2026-07-10T15:01:30Z",
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18072
+                    "stars": 18074
                   }
                 }
               ],
@@ -536,7 +536,7 @@
                     "last_commit": "2026-08-24T09:06:06Z",
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72208
+                    "stars": 72215
                   }
                 },
                 {
@@ -551,7 +551,7 @@
                     "last_commit": "2026-07-23T07:05:16Z",
                     "owner": "impress",
                     "repo": "impress.js",
-                    "stars": 38167
+                    "stars": 38168
                   }
                 },
                 {
@@ -731,7 +731,7 @@
                     "last_commit": "2024-07-30T05:53:03Z",
                     "owner": "VundleVim",
                     "repo": "Vundle.vim",
-                    "stars": 23926
+                    "stars": 23925
                   }
                 }
               ],
@@ -742,7 +742,7 @@
                 "last_commit": "2026-08-26T21:31:38Z",
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 40805
+                "stars": 40806
               }
             }
           ],
@@ -932,7 +932,7 @@
                 "last_commit": "2026-08-25T21:17:45Z",
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 28373
+                "stars": 28411
               }
             }
           ],
@@ -1083,9 +1083,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T08:25:24.248Z",
-    "original_repository": "emptymalei/awesome-research",
-    "original_repository_id": 20195519,
+    "last_updated": "2026-08-27T12:03:47.968Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 20195519,
+      "language": null,
+      "last_commit": "2026-05-19T11:43:56Z",
+      "owner": "emptymalei",
+      "repo": "awesome-research",
+      "stars": 2754
+    },
     "original_repository_sha": "4894f1f51eb8de6a4b4362eac30a339c60660c4d",
     "enhanced_repository": "enhansome/enhansome-research",
     "enhanced_repository_description": null,
