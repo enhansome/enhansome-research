@@ -119,10 +119,10 @@
                 "archived": false,
                 "id": 29220809,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T12:02:58Z",
+                "last_commit": "2026-08-26T16:20:16Z",
                 "owner": "amperser",
                 "repo": "proselint",
-                "stars": 4566
+                "stars": 4568
               }
             },
             {
@@ -186,10 +186,10 @@
                 "archived": false,
                 "id": 9852918,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T01:18:56Z",
+                "last_commit": "2026-08-27T07:06:31Z",
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55059
+                "stars": 55070
               }
             },
             {
@@ -293,7 +293,7 @@
                     "last_commit": "2026-08-16T17:57:50Z",
                     "owner": "retext-project",
                     "repo": "retext",
-                    "stars": 2052
+                    "stars": 2053
                   }
                 }
               ],
@@ -315,7 +315,7 @@
                     "last_commit": "2026-07-10T15:01:30Z",
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18069
+                    "stars": 18072
                   }
                 }
               ],
@@ -339,10 +339,10 @@
                 "archived": false,
                 "id": 658518,
                 "language": "Python",
-                "last_commit": "2026-08-25T16:25:34Z",
+                "last_commit": "2026-08-26T12:05:21Z",
                 "owner": "ipython",
                 "repo": "ipython",
-                "stars": 16773
+                "stars": 16774
               }
             },
             {
@@ -439,7 +439,7 @@
                 "last_commit": "2026-05-18T15:55:29Z",
                 "owner": "hizzgdev",
                 "repo": "jsmind",
-                "stars": 3792
+                "stars": 3793
               }
             },
             {
@@ -497,7 +497,7 @@
                 "last_commit": "2022-04-14T14:35:12Z",
                 "owner": "regebro",
                 "repo": "hovercraft",
-                "stars": 1507
+                "stars": 1508
               }
             },
             {
@@ -536,7 +536,7 @@
                     "last_commit": "2026-08-24T09:06:06Z",
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72189
+                    "stars": 72208
                   }
                 },
                 {
@@ -551,7 +551,7 @@
                     "last_commit": "2026-07-23T07:05:16Z",
                     "owner": "impress",
                     "repo": "impress.js",
-                    "stars": 38168
+                    "stars": 38167
                   }
                 },
                 {
@@ -716,7 +716,7 @@
                     "last_commit": "2024-10-06T08:26:02Z",
                     "owner": "amix",
                     "repo": "vimrc",
-                    "stars": 31794
+                    "stars": 31792
                   }
                 },
                 {
@@ -731,7 +731,7 @@
                     "last_commit": "2024-07-30T05:53:03Z",
                     "owner": "VundleVim",
                     "repo": "Vundle.vim",
-                    "stars": 23925
+                    "stars": 23926
                   }
                 }
               ],
@@ -739,10 +739,10 @@
                 "archived": false,
                 "id": 40997482,
                 "language": "Vim Script",
-                "last_commit": "2026-08-25T21:25:25Z",
+                "last_commit": "2026-08-26T21:31:38Z",
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 40800
+                "stars": 40805
               }
             }
           ],
@@ -932,7 +932,7 @@
                 "last_commit": "2026-08-25T21:17:45Z",
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 28324
+                "stars": 28373
               }
             }
           ],
@@ -960,7 +960,7 @@
                 "last_commit": "2022-11-20T13:06:40Z",
                 "owner": "jbmouret",
                 "repo": "matplotlib_for_papers",
-                "stars": 2201
+                "stars": 2202
               }
             },
             {
@@ -1083,7 +1083,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T01:37:08.408Z",
+    "last_updated": "2026-08-27T08:25:24.248Z",
     "original_repository": "emptymalei/awesome-research",
     "original_repository_id": 20195519,
     "original_repository_sha": "4894f1f51eb8de6a4b4362eac30a339c60660c4d",
