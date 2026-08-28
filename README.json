@@ -18,7 +18,8 @@
                 "owner": "schacon",
                 "repo": "git-scribe",
                 "stars": 1351
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2026-01-12T16:02:04Z",
                 "owner": "readthedocs",
                 "repo": "sphinx_rtd_theme",
-                "stars": 5076
-              }
+                "stars": 5075
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "sphinx-doc",
                 "repo": "alabaster",
                 "stars": 777
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "certik",
                 "repo": "theoretical-physics",
                 "stars": 235
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "emptymalei",
                 "repo": "statisticalphysics",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "NeuPhysics",
                 "repo": "neutrino",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "btford",
                 "repo": "write-good",
                 "stars": 5086
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -122,8 +129,9 @@
                 "last_commit": "2026-08-26T16:20:16Z",
                 "owner": "amperser",
                 "repo": "proselint",
-                "stars": 4568
-              }
+                "stars": 4569
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "GitbookIO",
                 "repo": "rousseau",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "sachac",
                 "repo": "artbollocks-mode",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "textlint-rule",
                 "repo": "textlint-rule-rousseau",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             }
           ],
           "description": "Markdown is one of the best languages for writing. Check out these editor in Markdown section.\nMake use of these programs for publishing:\nSphinx Themes and configurations\nScience Books Using Sphinx\nHere are some examples of how sphinx can be used for research.\nWriting Tools\nJust use Visual Studio Code.",
@@ -186,11 +197,12 @@
                 "archived": false,
                 "id": 9852918,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T12:02:57Z",
+                "last_commit": "2026-08-28T10:06:33Z",
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55072
-              }
+                "stars": 55075
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -204,8 +216,9 @@
                 "last_commit": "2026-07-07T12:49:50Z",
                 "owner": "picocms",
                 "repo": "Pico",
-                "stars": 3905
-              }
+                "stars": 3904
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "johnroper100",
                 "repo": "dropplets",
                 "stars": 1615
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             }
           ],
           "description": "Before doing the investigation on platforms, just remind yourself:I want to write, not to run blogging software.\nBlog/CMS Software\nThese programs are running on the server and can be hosted using these services.\nThese Blog/CMS software can be hosted on Digital Ocean.",
@@ -247,7 +261,8 @@
                     "owner": "wting",
                     "repo": "pelican-svbtle",
                     "stars": 153
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:26:16.843Z"
                 }
               ]
             }
@@ -279,7 +294,8 @@
                     "owner": "egoist",
                     "repo": "eme",
                     "stars": 2058
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:26:16.843Z"
                 },
                 {
                   "node_type": "item",
@@ -294,7 +310,8 @@
                     "owner": "retext-project",
                     "repo": "retext",
                     "stars": 2053
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:26:16.843Z"
                 }
               ],
               "description": "Notebook softwares that you can write in Markdown:",
@@ -315,8 +332,9 @@
                     "last_commit": "2026-07-10T15:01:30Z",
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18074
-                  }
+                    "stars": 18077
+                  },
+                  "first_seen": "2026-08-28T10:26:16.843Z"
                 }
               ],
               "description": "You can also host one using your own machine.\nYou can also add notes directly to academic papers",
@@ -339,11 +357,12 @@
                 "archived": false,
                 "id": 658518,
                 "language": "Python",
-                "last_commit": "2026-08-26T12:05:21Z",
+                "last_commit": "2026-08-28T09:00:30Z",
                 "owner": "ipython",
                 "repo": "ipython",
                 "stars": 16774
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -357,8 +376,9 @@
                 "last_commit": "2026-06-02T22:19:39Z",
                 "owner": "jrjohansson",
                 "repo": "scientific-python-lectures",
-                "stars": 3647
-              }
+                "stars": 3649
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             }
           ],
           "description": "Use IPython Notebook to help with your research. IPython Notebook can be previewed on GitHub directly. Here are some examples of how IPython notebook can be used.",
@@ -379,8 +399,9 @@
                 "last_commit": "2019-08-10T08:29:01Z",
                 "owner": "fex-team",
                 "repo": "kityminder",
-                "stars": 4868
-              }
+                "stars": 4867
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -395,7 +416,8 @@
                 "owner": "ondras",
                 "repo": "my-mind",
                 "stars": 3365
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -410,7 +432,8 @@
                 "owner": "drichard",
                 "repo": "mindmaps",
                 "stars": 2868
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -425,7 +448,8 @@
                 "owner": "ierror",
                 "repo": "BeautifulMind.io",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -439,8 +463,9 @@
                 "last_commit": "2026-05-18T15:55:29Z",
                 "owner": "hizzgdev",
                 "repo": "jsmind",
-                "stars": 3793
-              }
+                "stars": 3792
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -455,7 +480,8 @@
                 "owner": "drichard",
                 "repo": "mindmaps",
                 "stars": 2868
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             }
           ],
           "description": "Standalone\nOnline\nMINDMAP HTML",
@@ -483,7 +509,8 @@
                 "owner": "tantaman",
                 "repo": "strut",
                 "stars": 1889
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -498,7 +525,8 @@
                 "owner": "regebro",
                 "repo": "hovercraft",
                 "stars": 1508
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -513,7 +541,8 @@
                 "owner": "harish-io",
                 "repo": "Impressionist",
                 "stars": 706
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             }
           ],
           "description": null,
@@ -536,8 +565,9 @@
                     "last_commit": "2026-08-24T09:06:06Z",
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72215
-                  }
+                    "stars": 72222
+                  },
+                  "first_seen": "2026-08-28T10:26:16.843Z"
                 },
                 {
                   "node_type": "item",
@@ -552,7 +582,8 @@
                     "owner": "impress",
                     "repo": "impress.js",
                     "stars": 38168
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:26:16.843Z"
                 },
                 {
                   "node_type": "item",
@@ -566,8 +597,9 @@
                     "last_commit": "2019-01-28T20:09:58Z",
                     "owner": "imakewebthings",
                     "repo": "deck.js",
-                    "stars": 5421
-                  }
+                    "stars": 5420
+                  },
+                  "first_seen": "2026-08-28T10:26:16.843Z"
                 },
                 {
                   "node_type": "item",
@@ -582,7 +614,8 @@
                     "owner": "shower",
                     "repo": "shower",
                     "stars": 4874
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:26:16.843Z"
                 },
                 {
                   "node_type": "item",
@@ -597,7 +630,8 @@
                     "owner": "bespokejs",
                     "repo": "bespoke",
                     "stars": 4796
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:26:16.843Z"
                 },
                 {
                   "node_type": "item",
@@ -612,7 +646,8 @@
                     "owner": "inspire-js",
                     "repo": "inspire.js",
                     "stars": 1752
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:26:16.843Z"
                 },
                 {
                   "node_type": "item",
@@ -627,7 +662,8 @@
                     "owner": "marcolago",
                     "repo": "flowtime.js",
                     "stars": 1343
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:26:16.843Z"
                 },
                 {
                   "node_type": "item",
@@ -642,7 +678,8 @@
                     "owner": "johnpolacek",
                     "repo": "scrolldeck.js",
                     "stars": 662
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:26:16.843Z"
                 },
                 {
                   "node_type": "item",
@@ -657,7 +694,8 @@
                     "owner": "briancavalier",
                     "repo": "slides",
                     "stars": 495
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:26:16.843Z"
                 }
               ],
               "description": "Use colors to make your HTML feels better.",
@@ -684,7 +722,8 @@
                 "owner": "asyazwan",
                 "repo": "ext-sozi",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             }
           ],
           "description": "Online SVG editors:\nLocal SVG editors:",
@@ -716,8 +755,9 @@
                     "last_commit": "2024-10-06T08:26:02Z",
                     "owner": "amix",
                     "repo": "vimrc",
-                    "stars": 31792
-                  }
+                    "stars": 31799
+                  },
+                  "first_seen": "2026-08-28T10:26:16.843Z"
                 },
                 {
                   "node_type": "item",
@@ -731,19 +771,21 @@
                     "last_commit": "2024-07-30T05:53:03Z",
                     "owner": "VundleVim",
                     "repo": "Vundle.vim",
-                    "stars": 23925
-                  }
+                    "stars": 23924
+                  },
+                  "first_seen": "2026-08-28T10:26:16.843Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
                 "id": 40997482,
                 "language": "Vim Script",
-                "last_commit": "2026-08-26T21:31:38Z",
+                "last_commit": "2026-08-27T21:19:08Z",
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 40806
-              }
+                "stars": 40814
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             }
           ],
           "description": null,
@@ -770,7 +812,8 @@
                     "owner": "ptone",
                     "repo": "jiffylab",
                     "stars": 187
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:26:16.843Z"
                 },
                 {
                   "node_type": "item",
@@ -785,7 +828,8 @@
                     "owner": "writefaruq",
                     "repo": "supervised-ipython-nbserver",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T10:26:16.843Z"
                 }
               ]
             }
@@ -809,7 +853,8 @@
                 "owner": "shmlkv",
                 "repo": "dna-claude-analysis",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             }
           ],
           "description": null,
@@ -837,7 +882,8 @@
                 "owner": "marcpinet",
                 "repo": "citracer",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -852,7 +898,8 @@
                 "owner": "CherishChenCherish",
                 "repo": "odatamap",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             }
           ],
           "description": null,
@@ -874,7 +921,8 @@
                 "owner": "duecredit",
                 "repo": "duecredit",
                 "stars": 246
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             }
           ],
           "description": null,
@@ -896,7 +944,8 @@
                 "owner": "jkitchin",
                 "repo": "org-ref",
                 "stars": 1430
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -911,7 +960,8 @@
                 "owner": "brodie-neuro",
                 "repo": "ScholarRef",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             }
           ],
           "description": null,
@@ -932,8 +982,9 @@
                 "last_commit": "2026-08-25T21:17:45Z",
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 28411
-              }
+                "stars": 28553
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             }
           ],
           "description": null,
@@ -961,7 +1012,8 @@
                 "owner": "jbmouret",
                 "repo": "matplotlib_for_papers",
                 "stars": 2202
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -976,7 +1028,8 @@
                 "owner": "daleroberts",
                 "repo": "itermplot",
                 "stars": 1497
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             }
           ],
           "description": "JS and jQuery\nPython",
@@ -998,7 +1051,8 @@
                 "owner": "latexdraw",
                 "repo": "latexdraw",
                 "stars": 448
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -1013,7 +1067,8 @@
                 "owner": "holoviz",
                 "repo": "colorcet",
                 "stars": 750
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             }
           ],
           "description": "Professional graphs should be made using professional tools.\nChoose percentually accurate colors for your research plots. Why? (1, 2)",
@@ -1041,7 +1096,8 @@
                 "owner": "glamp",
                 "repo": "bashplotlib",
                 "stars": 1920
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -1056,7 +1112,8 @@
                 "owner": "glamp",
                 "repo": "bashplotlib",
                 "stars": 1920
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             },
             {
               "node_type": "item",
@@ -1071,7 +1128,8 @@
                 "owner": "EricFreeman",
                 "repo": "fuck",
                 "stars": 399
-              }
+              },
+              "first_seen": "2026-08-28T10:26:16.843Z"
             }
           ],
           "description": null,
@@ -1083,7 +1141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:03:47.968Z",
+    "last_updated": "2026-08-28T10:26:16.843Z",
     "original_repository_info": {
       "archived": false,
       "id": 20195519,
@@ -1091,7 +1149,7 @@
       "last_commit": "2026-05-19T11:43:56Z",
       "owner": "emptymalei",
       "repo": "awesome-research",
-      "stars": 2754
+      "stars": 2756
     },
     "original_repository_sha": "4894f1f51eb8de6a4b4362eac30a339c60660c4d",
     "enhanced_repository": "enhansome/enhansome-research",
