@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "basically the best way to write an ebook",
+                "homepage": null,
                 "id": 1269231,
                 "language": "XSLT",
+                "license": "MIT",
                 "last_commit": "2023-10-12T12:32:54Z",
+                "open_issues": 23,
                 "owner": "schacon",
                 "repo": "git-scribe",
-                "stars": 1351
+                "stars": 1351,
+                "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -28,12 +33,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sphinx theme from Read the Docs",
+                "homepage": "https://sphinx-rtd-theme.readthedocs.io/",
                 "id": 13655592,
                 "language": "Sass",
+                "license": "MIT",
                 "last_commit": "2026-01-12T16:02:04Z",
+                "open_issues": 274,
                 "owner": "readthedocs",
                 "repo": "sphinx_rtd_theme",
-                "stars": 5075
+                "stars": 5076,
+                "topics": [
+                  "sphinx-doc",
+                  "sphinx-theme"
+                ]
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -44,12 +57,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight, configurable Sphinx theme",
+                "homepage": "http://alabaster.readthedocs.io/",
                 "id": 14996695,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-26T18:14:36Z",
+                "open_issues": 72,
                 "owner": "sphinx-doc",
                 "repo": "alabaster",
-                "stars": 777
+                "stars": 777,
+                "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -60,12 +78,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code of the Theoretical Physics Reference online book",
+                "homepage": "https://theoretical-physics.com",
                 "id": 299751,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-25T21:56:39Z",
+                "open_issues": 36,
                 "owner": "certik",
                 "repo": "theoretical-physics",
-                "stars": 235
+                "stars": 235,
+                "topics": [
+                  "book",
+                  "physics",
+                  "reference",
+                  "theoretical-physics"
+                ]
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -76,12 +104,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "open source E-book on statistical physics",
+                "homepage": "http://statisticalphysics.leima.is",
                 "id": 53372594,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-10-23T12:37:10Z",
+                "open_issues": 2,
                 "owner": "emptymalei",
                 "repo": "statisticalphysics",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "statistical-mechanics",
+                  "statistical-physics"
+                ]
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -92,12 +128,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":game_die: Neutrino research",
+                "homepage": "http://docs.neutrino.xyz",
                 "id": 20227715,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2022-05-03T16:40:01Z",
+                "open_issues": 21,
                 "owner": "NeuPhysics",
                 "repo": "neutrino",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "neutrino",
+                  "neutrino-oscillations",
+                  "physics"
+                ]
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -108,12 +153,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Naive linter for English prose",
+                "homepage": null,
                 "id": 19128505,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-03-10T04:04:12Z",
+                "open_issues": 24,
                 "owner": "btford",
                 "repo": "write-good",
-                "stars": 5086
+                "stars": 5086,
+                "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -124,12 +174,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[Mirror] A linter for prose.",
+                "homepage": "https://codeberg.org/amperser/proselint",
                 "id": 29220809,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-26T16:20:16Z",
+                "open_issues": 236,
                 "owner": "amperser",
                 "repo": "proselint",
-                "stars": 4569
+                "stars": 4569,
+                "topics": [
+                  "advice",
+                  "knowledge",
+                  "language",
+                  "linter",
+                  "prose",
+                  "style",
+                  "writer"
+                ]
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -140,12 +203,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight proofreader in JS",
+                "homepage": null,
                 "id": 31256354,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-03-09T11:19:04Z",
+                "open_issues": 4,
                 "owner": "GitbookIO",
                 "repo": "rousseau",
-                "stars": 188
+                "stars": 188,
+                "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -156,12 +224,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Emacs mode for highlighting weasel words",
+                "homepage": null,
                 "id": 4685592,
                 "language": "Emacs Lisp",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-12-11T16:24:48Z",
+                "open_issues": 4,
                 "owner": "sachac",
                 "repo": "artbollocks-mode",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -172,12 +245,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "textlint rule check english sentence using rousseau",
+                "homepage": null,
                 "id": 51685761,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-23T15:46:33Z",
+                "open_issues": 4,
                 "owner": "textlint-rule",
                 "repo": "textlint-rule-rousseau",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             }
@@ -195,12 +273,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+                "homepage": "https://ghost.org",
                 "id": 9852918,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T10:06:33Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:55:24Z",
+                "open_issues": 131,
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55075
+                "stars": 55076,
+                "topics": [
+                  "blogging",
+                  "cms",
+                  "ghost",
+                  "javascript",
+                  "journalism",
+                  "nodejs",
+                  "publishing",
+                  "web-application"
+                ]
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -211,12 +303,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pico is a stupidly simple, blazing fast, flat file CMS.",
+                "homepage": "http://picocms.org/",
                 "id": 3929096,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-07-07T12:49:50Z",
+                "open_issues": 18,
                 "owner": "picocms",
                 "repo": "Pico",
-                "stars": 3904
+                "stars": 3904,
+                "topics": [
+                  "cms",
+                  "content-management",
+                  "flat-file",
+                  "markdown",
+                  "markdown-to-html",
+                  "php",
+                  "pico",
+                  "pico-cms",
+                  "picocms",
+                  "simple",
+                  "twig",
+                  "website",
+                  "yaml"
+                ]
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -227,12 +338,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Welcome to an easier way to blog - A minimalist markdown blogging platform.",
+                "homepage": null,
                 "id": 8066758,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2023-02-20T16:30:52Z",
+                "open_issues": 5,
                 "owner": "johnroper100",
                 "repo": "dropplets",
-                "stars": 1615
+                "stars": 1615,
+                "topics": [
+                  "blog",
+                  "blog-engine",
+                  "markdown",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             }
@@ -255,12 +376,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A clean room copy of Svbtle.com's design for use with Pelican.",
+                    "homepage": null,
                     "id": 4486965,
                     "language": "CSS",
+                    "license": "MIT",
                     "last_commit": "2016-03-06T01:14:19Z",
+                    "open_issues": 3,
                     "owner": "wting",
                     "repo": "pelican-svbtle",
-                    "stars": 153
+                    "stars": 153,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
                 }
@@ -288,12 +414,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Elegant Markdown Editor.",
+                    "homepage": "https://egoist.sh/eme",
                     "id": 63537564,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-12-10T20:27:42Z",
+                    "open_issues": 63,
                     "owner": "egoist",
                     "repo": "eme",
-                    "stars": 2058
+                    "stars": 2058,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
                 },
@@ -304,12 +435,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ReText: Simple but powerful editor for Markdown and reStructuredText",
+                    "homepage": null,
                     "id": 42403944,
                     "language": "Python",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-16T17:57:50Z",
+                    "open_issues": 76,
                     "owner": "retext-project",
                     "repo": "retext",
-                    "stars": 2053
+                    "stars": 2053,
+                    "topics": [
+                      "editor",
+                      "markdown",
+                      "markdown-editor",
+                      "markup-language",
+                      "restructuredtext"
+                    ]
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
                 }
@@ -327,12 +469,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A web-based collaborative LaTeX editor",
+                    "homepage": null,
                     "id": 16652218,
                     "language": "JavaScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-07-10T15:01:30Z",
+                    "open_issues": 172,
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18077
+                    "stars": 18078,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
                 }
@@ -355,12 +502,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.",
+                "homepage": "https://ipython.readthedocs.org",
                 "id": 658518,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T09:00:30Z",
+                "open_issues": 1279,
                 "owner": "ipython",
                 "repo": "ipython",
-                "stars": 16774
+                "stars": 16773,
+                "topics": [
+                  "closember",
+                  "data-science",
+                  "hacktoberfest",
+                  "ipython",
+                  "jupyter",
+                  "notebook",
+                  "python",
+                  "repl",
+                  "spec-0"
+                ]
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -371,12 +533,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lectures on scientific computing with python, as IPython notebooks.",
+                "homepage": null,
                 "id": 6920160,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2026-06-02T22:19:39Z",
+                "open_issues": 15,
                 "owner": "jrjohansson",
                 "repo": "scientific-python-lectures",
-                "stars": 3649
+                "stars": 3649,
+                "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             }
@@ -394,12 +561,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "百度脑图",
+                "homepage": "http://naotu.baidu.com",
                 "id": 15216217,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-08-10T08:29:01Z",
+                "open_issues": 131,
                 "owner": "fex-team",
                 "repo": "kityminder",
-                "stars": 4867
+                "stars": 4867,
+                "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -410,12 +582,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Online Mindmapping Software",
+                "homepage": "https://my-mind.github.io",
                 "id": 15381078,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-06-18T12:28:51Z",
+                "open_issues": 59,
                 "owner": "ondras",
                 "repo": "my-mind",
-                "stars": 3365
+                "stars": 3365,
+                "topics": [
+                  "hacktoberfest",
+                  "mindmap",
+                  "web-app"
+                ]
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -426,12 +607,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source, offline capable, mind mapping application leveraging HTML5 technologies",
+                "homepage": "https://www.mindmaps.app",
                 "id": 1529764,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-02-05T10:52:38Z",
+                "open_issues": 35,
                 "owner": "drichard",
                 "repo": "mindmaps",
-                "stars": 2868
+                "stars": 2868,
+                "topics": [
+                  "html5",
+                  "javascript",
+                  "mindmap"
+                ]
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -442,12 +632,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-time web-based collaborative open source mind mapping",
+                "homepage": "http://beautifulmind.io",
                 "id": 4465227,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2015-02-27T08:55:58Z",
+                "open_issues": 4,
                 "owner": "ierror",
                 "repo": "BeautifulMind.io",
-                "stars": 118
+                "stars": 118,
+                "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -458,12 +653,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a mind mapping library built by javascript",
+                "homepage": "http://hizzgdev.github.io/jsmind/",
                 "id": 5562943,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-18T15:55:29Z",
+                "open_issues": 1,
                 "owner": "hizzgdev",
                 "repo": "jsmind",
-                "stars": 3792
+                "stars": 3792,
+                "topics": [
+                  "bsd",
+                  "canvas",
+                  "es6",
+                  "freemind",
+                  "javascript",
+                  "jsmind",
+                  "mindmap",
+                  "svg",
+                  "xmind"
+                ]
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -474,12 +684,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source, offline capable, mind mapping application leveraging HTML5 technologies",
+                "homepage": "https://www.mindmaps.app",
                 "id": 1529764,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-02-05T10:52:38Z",
+                "open_issues": 35,
                 "owner": "drichard",
                 "repo": "mindmaps",
-                "stars": 2868
+                "stars": 2868,
+                "topics": [
+                  "html5",
+                  "javascript",
+                  "mindmap"
+                ]
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             }
@@ -503,12 +722,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Strut - An Impress.js and Bespoke.js Presentation Editor",
+                "homepage": "http://strut.io",
                 "id": 4244443,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-04T03:39:52Z",
+                "open_issues": 10,
                 "owner": "tantaman",
                 "repo": "strut",
-                "stars": 1889
+                "stars": 1889,
+                "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -519,12 +743,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make dynamic impressive presentations from text files!",
+                "homepage": "https://hovercraft.readthedocs.org",
                 "id": 7865549,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-04-14T14:35:12Z",
+                "open_issues": 19,
                 "owner": "regebro",
                 "repo": "hovercraft",
-                "stars": 1508
+                "stars": 1508,
+                "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -535,12 +764,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visual tool to create impress.js presentations",
+                "homepage": null,
                 "id": 3783995,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2013-06-15T07:08:23Z",
+                "open_issues": 26,
                 "owner": "harish-io",
                 "repo": "Impressionist",
-                "stars": 706
+                "stars": 706,
+                "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             }
@@ -560,12 +794,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The HTML Presentation Framework",
+                    "homepage": "https://revealjs.com",
                     "id": 1861458,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T09:06:06Z",
+                    "open_issues": 910,
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72222
+                    "stars": 72231,
+                    "topics": [
+                      "presentations",
+                      "slides",
+                      "slideshow"
+                    ]
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
                 },
@@ -576,12 +819,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.",
+                    "homepage": "http://impress.js.org",
                     "id": 3065454,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-07-23T07:05:16Z",
+                    "open_issues": 59,
                     "owner": "impress",
                     "repo": "impress.js",
-                    "stars": 38168
+                    "stars": 38169,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
                 },
@@ -592,12 +840,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Modern HTML Presentations",
+                    "homepage": "http://imakewebthings.com/deck.js",
                     "id": 1791673,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2019-01-28T20:09:58Z",
+                    "open_issues": 42,
                     "owner": "imakewebthings",
                     "repo": "deck.js",
-                    "stars": 5420
+                    "stars": 5420,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
                 },
@@ -608,12 +861,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Shower HTML presentation engine",
+                    "homepage": "https://shwr.me",
                     "id": 1035184,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-25T07:14:45Z",
+                    "open_issues": 40,
                     "owner": "shower",
                     "repo": "shower",
-                    "stars": 4874
+                    "stars": 4874,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
                 },
@@ -624,12 +882,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DIY Presentation Micro-Framework",
+                    "homepage": "http://markdalgleish.com/projects/bespoke.js/",
                     "id": 7147058,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-09-08T20:46:55Z",
+                    "open_issues": 6,
                     "owner": "bespokejs",
                     "repo": "bespoke",
-                    "stars": 4796
+                    "stars": 4796,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
                 },
@@ -640,12 +903,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Lean, hackable, extensible slide deck framework. Previously known as CSSS.",
+                    "homepage": "http://inspirejs.org/",
                     "id": 1033339,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-06-10T17:03:54Z",
+                    "open_issues": 26,
                     "owner": "inspire-js",
                     "repo": "inspire.js",
-                    "stars": 1752
+                    "stars": 1752,
+                    "topics": [
+                      "presentation",
+                      "slidedeck",
+                      "slideshow"
+                    ]
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
                 },
@@ -656,12 +928,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Flowtime.js HTML5/CSS3/JS Websites and Presentation Framework",
+                    "homepage": "https://marcolago.github.io/flowtime.js/",
                     "id": 7182936,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-04-02T03:51:00Z",
+                    "open_issues": 8,
                     "owner": "marcolago",
                     "repo": "flowtime.js",
-                    "stars": 1343
+                    "stars": 1343,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
                 },
@@ -672,12 +949,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "jQuery plugin for making scrolling presentation decks",
+                    "homepage": "http://johnpolacek.github.com/scrolldeck.js/",
                     "id": 2911028,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2021-09-09T15:24:10Z",
+                    "open_issues": 21,
                     "owner": "johnpolacek",
                     "repo": "scrolldeck.js",
-                    "stars": 662
+                    "stars": 662,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
                 },
@@ -688,12 +970,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A slide presentation framework in HTML, JS, and OOCSS",
+                    "homepage": "http://briancavalier.com/code/slides",
                     "id": 1316112,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-05-22T23:29:22Z",
+                    "open_issues": 3,
                     "owner": "briancavalier",
                     "repo": "slides",
-                    "stars": 495
+                    "stars": 495,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
                 }
@@ -716,12 +1003,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sozi extension for SVG-Edit -- Discontinued until I have time to update for latest Sozi & SVG-Edit",
+                "homepage": null,
                 "id": 3691511,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2013-04-06T16:31:20Z",
+                "open_issues": 2,
                 "owner": "asyazwan",
                 "repo": "ext-sozi",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             }
@@ -750,12 +1042,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The ultimate Vim configuration (vimrc)",
+                    "homepage": null,
                     "id": 4484451,
                     "language": "Vim Script",
+                    "license": "MIT",
                     "last_commit": "2024-10-06T08:26:02Z",
+                    "open_issues": 21,
                     "owner": "amix",
                     "repo": "vimrc",
-                    "stars": 31799
+                    "stars": 31800,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
                 },
@@ -766,24 +1063,39 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Vundle, the plug-in manager for Vim",
+                    "homepage": "http://github.com/VundleVim/Vundle.Vim",
                     "id": 995750,
                     "language": "Vim Script",
+                    "license": "MIT",
                     "last_commit": "2024-07-30T05:53:03Z",
+                    "open_issues": 204,
                     "owner": "VundleVim",
                     "repo": "Vundle.vim",
-                    "stars": 23924
+                    "stars": 23924,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "The official Vim repository",
+                "homepage": "https://www.vim.org",
                 "id": 40997482,
                 "language": "Vim Script",
-                "last_commit": "2026-08-27T21:19:08Z",
+                "license": "Vim",
+                "last_commit": "2026-08-29T02:34:08Z",
+                "open_issues": 1636,
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 40814
+                "stars": 40818,
+                "topics": [
+                  "c",
+                  "cross-platform",
+                  "text-editor",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             }
@@ -806,12 +1118,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "zero configuration Python/Unix web based teaching env",
+                    "homepage": null,
                     "id": 10960144,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-07-23T08:32:19Z",
+                    "open_issues": 19,
                     "owner": "ptone",
                     "repo": "jiffylab",
-                    "stars": 187
+                    "stars": 187,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
                 },
@@ -822,12 +1139,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mass management of IPython notebook servers with Supervisord and a Django/Pinax front-end ",
+                    "homepage": null,
                     "id": 12969355,
                     "language": "CSS",
+                    "license": "MIT",
                     "last_commit": "2013-11-07T15:42:01Z",
+                    "open_issues": 0,
                     "owner": "writefaruq",
                     "repo": "supervised-ipython-nbserver",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
                 }
@@ -847,12 +1169,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run scripts, explore your genome, and get personalized explanations — all in natural dialogue.",
+                "homepage": "https://claude-dna-example.vercel.app",
                 "id": 1129232830,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-04T23:57:04Z",
+                "open_issues": 0,
                 "owner": "shmlkv",
                 "repo": "dna-claude-analysis",
-                "stars": 56
+                "stars": 57,
+                "topics": [
+                  "analysis",
+                  "claude",
+                  "claudecode",
+                  "dna",
+                  "genome"
+                ]
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             }
@@ -876,12 +1209,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💬 Trace citation chains for any concept across research papers and render them as an interactive graph.",
+                "homepage": "http://marcpinet.fr/citracer/",
                 "id": 1204385203,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-13T23:46:05Z",
+                "open_issues": 1,
                 "owner": "marcpinet",
                 "repo": "citracer",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "academic-research",
+                  "bibliography",
+                  "citation-graph",
+                  "cli",
+                  "grobid",
+                  "literature-review",
+                  "pdf-parsing",
+                  "phd-tools",
+                  "python",
+                  "research",
+                  "research-tool"
+                ]
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -892,12 +1242,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🗺️ 科研数据地图 — AI驱动的全球科研可视化平台 | Research Data Map with 250M+ papers",
+                "homepage": "https://odatamap.cherishchen2510.workers.dev",
                 "id": 1197756793,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-04T17:20:38Z",
+                "open_issues": 0,
                 "owner": "CherishChenCherish",
                 "repo": "odatamap",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "academic",
+                  "ai",
+                  "china",
+                  "cloudflare-workers",
+                  "d3js",
+                  "data-visualization",
+                  "deepseek",
+                  "interactive-map",
+                  "nextjs",
+                  "openai",
+                  "openalex",
+                  "research",
+                  "scientific-research",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             }
@@ -915,12 +1285,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated collection and reporting of citations for used software/methods/datasets",
+                "homepage": null,
                 "id": 34000285,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-20T16:19:48Z",
+                "open_issues": 56,
                 "owner": "duecredit",
                 "repo": "duecredit",
-                "stars": 246
+                "stars": 246,
+                "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             }
@@ -938,12 +1313,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "org-mode modules for citations, cross-references, bibliographies in org-mode and useful bibtex tools to go with it.",
+                "homepage": null,
                 "id": 28187504,
                 "language": "Emacs Lisp",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-06T14:22:16Z",
+                "open_issues": 5,
                 "owner": "jkitchin",
                 "repo": "org-ref",
-                "stars": 1430
+                "stars": 1430,
+                "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -954,12 +1334,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A professional Python tool and modern desktop GUI for converting academic citations and document formatting (APA 7, Harvard, Vancouver) in Microsoft Word (.docx) files.",
+                "homepage": "https://brodiemangan.com/scholarref.html",
                 "id": 1173678470,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-10T04:20:17Z",
+                "open_issues": 0,
                 "owner": "brodie-neuro",
                 "repo": "ScholarRef",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "academia",
+                  "academic-writing",
+                  "apa7",
+                  "bibliography",
+                  "citation-manager",
+                  "citation-style",
+                  "docx",
+                  "harvard-style",
+                  "manuscript-formatting",
+                  "numbered-references",
+                  "python",
+                  "python-docx",
+                  "reference-converter",
+                  "reference-formatting",
+                  "vancouver-style"
+                ]
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             }
@@ -977,12 +1378,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":scream: A curated list of amazingly awesome OSINT",
+                "homepage": null,
                 "id": 75189212,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T21:17:45Z",
+                "open_issues": 9,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 28553
+                "stars": 28635,
+                "topics": [
+                  "awesome-list",
+                  "osint",
+                  "website"
+                ]
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             }
@@ -1006,12 +1416,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Handout for the tutorial \"Creating publication-quality figures with matplotlib\"",
+                "homepage": null,
                 "id": 22555839,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-20T13:06:40Z",
+                "open_issues": 1,
                 "owner": "jbmouret",
                 "repo": "matplotlib_for_papers",
-                "stars": 2202
+                "stars": 2202,
+                "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -1022,12 +1437,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal.",
+                "homepage": null,
                 "id": 78607774,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-06T13:11:08Z",
+                "open_issues": 25,
                 "owner": "daleroberts",
                 "repo": "itermplot",
-                "stars": 1497
+                "stars": 1497,
+                "topics": [
+                  "command-line",
+                  "iterm2",
+                  "matplotlib",
+                  "plot",
+                  "python",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             }
@@ -1045,12 +1472,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A vector drawing editor for LaTeX (JavaFX).",
+                "homepage": "http://latexdraw.sourceforge.net/",
                 "id": 8397181,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2020-12-22T08:04:10Z",
+                "open_issues": 13,
                 "owner": "latexdraw",
                 "repo": "latexdraw",
-                "stars": 448
+                "stars": 448,
+                "topics": [
+                  "drawing-editor",
+                  "eps",
+                  "java",
+                  "javafx",
+                  "latex",
+                  "pdf",
+                  "ps",
+                  "pstricks",
+                  "svg"
+                ]
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -1061,12 +1503,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of useful perceptually uniform colormaps for plotting scientific data",
+                "homepage": "http://colorcet.holoviz.org",
                 "id": 73039191,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-13T11:12:00Z",
+                "open_issues": 3,
                 "owner": "holoviz",
                 "repo": "colorcet",
-                "stars": 750
+                "stars": 750,
+                "topics": [
+                  "bokeh",
+                  "colorcet",
+                  "colormaps",
+                  "holoviz",
+                  "matplotlib",
+                  "plotly"
+                ]
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             }
@@ -1090,12 +1544,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "plotting in the terminal",
+                "homepage": null,
                 "id": 7142310,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-23T22:00:04Z",
+                "open_issues": 24,
                 "owner": "glamp",
                 "repo": "bashplotlib",
-                "stars": 1920
+                "stars": 1920,
+                "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -1106,12 +1565,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "plotting in the terminal",
+                "homepage": null,
                 "id": 7142310,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-23T22:00:04Z",
+                "open_issues": 24,
                 "owner": "glamp",
                 "repo": "bashplotlib",
-                "stars": 1920
+                "stars": 1920,
+                "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             },
@@ -1122,12 +1586,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fix command line spelling errors like it's 1999.",
+                "homepage": null,
                 "id": 38840621,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2020-09-30T18:49:14Z",
+                "open_issues": 3,
                 "owner": "EricFreeman",
                 "repo": "fuck",
-                "stars": 399
+                "stars": 399,
+                "topics": [
+                  "c-sharp",
+                  "cli",
+                  "console-tool",
+                  "spelling-errors"
+                ]
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
             }
@@ -1141,15 +1615,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T10:26:16.843Z",
+    "last_updated": "2026-08-29T04:22:13.445Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]",
+      "homepage": "https://tools.kausalflow.com/tools",
       "id": 20195519,
       "language": null,
+      "license": null,
       "last_commit": "2026-05-19T11:43:56Z",
+      "open_issues": 15,
       "owner": "emptymalei",
       "repo": "awesome-research",
-      "stars": 2756
+      "stars": 2758,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesomeness",
+        "list",
+        "research",
+        "research-tool",
+        "research-tools",
+        "tools"
+      ]
     },
     "original_repository_sha": "4894f1f51eb8de6a4b4362eac30a339c60660c4d",
     "enhanced_repository": "enhansome/enhansome-research",
