@@ -278,11 +278,11 @@
                 "id": 9852918,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T03:55:24Z",
+                "last_commit": "2026-08-29T04:29:35Z",
                 "open_issues": 131,
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55076,
+                "stars": 55077,
                 "topics": [
                   "blogging",
                   "cms",
@@ -478,7 +478,7 @@
                     "open_issues": 172,
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18078,
+                    "stars": 18077,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -511,7 +511,7 @@
                 "open_issues": 1279,
                 "owner": "ipython",
                 "repo": "ipython",
-                "stars": 16773,
+                "stars": 16774,
                 "topics": [
                   "closember",
                   "data-science",
@@ -1086,7 +1086,7 @@
                 "language": "Vim Script",
                 "license": "Vim",
                 "last_commit": "2026-08-29T02:34:08Z",
-                "open_issues": 1636,
+                "open_issues": 1635,
                 "owner": "vim",
                 "repo": "vim",
                 "stars": 40818,
@@ -1387,7 +1387,7 @@
                 "open_issues": 9,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 28635,
+                "stars": 28649,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1615,7 +1615,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:22:13.445Z",
+    "last_updated": "2026-08-29T06:27:03.250Z",
     "original_repository_info": {
       "archived": false,
       "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]",
