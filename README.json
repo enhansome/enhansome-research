@@ -42,7 +42,7 @@
                 "open_issues": 274,
                 "owner": "readthedocs",
                 "repo": "sphinx_rtd_theme",
-                "stars": 5076,
+                "stars": 5079,
                 "topics": [
                   "sphinx-doc",
                   "sphinx-theme"
@@ -278,11 +278,11 @@
                 "id": 9852918,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-31T04:34:45Z",
-                "open_issues": 133,
+                "last_commit": "2026-09-01T03:58:47Z",
+                "open_issues": 137,
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55089,
+                "stars": 55094,
                 "topics": [
                   "blogging",
                   "cms",
@@ -478,7 +478,7 @@
                     "open_issues": 172,
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18080,
+                    "stars": 18082,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -507,11 +507,11 @@
                 "id": 658518,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-28T09:00:30Z",
-                "open_issues": 1278,
+                "last_commit": "2026-09-01T04:11:56Z",
+                "open_issues": 1280,
                 "owner": "ipython",
                 "repo": "ipython",
-                "stars": 16775,
+                "stars": 16777,
                 "topics": [
                   "closember",
                   "data-science",
@@ -591,7 +591,7 @@
                 "open_issues": 59,
                 "owner": "ondras",
                 "repo": "my-mind",
-                "stars": 3365,
+                "stars": 3367,
                 "topics": [
                   "hacktoberfest",
                   "mindmap",
@@ -803,7 +803,7 @@
                     "open_issues": 911,
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72237,
+                    "stars": 72238,
                     "topics": [
                       "presentations",
                       "slides",
@@ -866,7 +866,7 @@
                     "id": 1035184,
                     "language": "JavaScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-25T07:14:45Z",
+                    "last_commit": "2026-08-31T20:18:00Z",
                     "open_issues": 40,
                     "owner": "shower",
                     "repo": "shower",
@@ -1051,7 +1051,7 @@
                     "open_issues": 21,
                     "owner": "amix",
                     "repo": "vimrc",
-                    "stars": 31807,
+                    "stars": 31809,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1086,10 +1086,10 @@
                 "language": "Vim Script",
                 "license": "Vim",
                 "last_commit": "2026-08-30T21:27:56Z",
-                "open_issues": 1630,
+                "open_issues": 1635,
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 40826,
+                "stars": 40832,
                 "topics": [
                   "c",
                   "cross-platform",
@@ -1384,10 +1384,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-25T21:17:45Z",
-                "open_issues": 10,
+                "open_issues": 14,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 29018,
+                "stars": 29054,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1615,7 +1615,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T04:41:46.591Z",
+    "last_updated": "2026-09-01T04:22:26.152Z",
     "original_repository_info": {
       "archived": false,
       "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]",
