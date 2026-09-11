@@ -87,7 +87,7 @@
                 "open_issues": 36,
                 "owner": "certik",
                 "repo": "theoretical-physics",
-                "stars": 235,
+                "stars": 236,
                 "topics": [
                   "book",
                   "physics",
@@ -162,7 +162,7 @@
                 "open_issues": 24,
                 "owner": "btford",
                 "repo": "write-good",
-                "stars": 5088,
+                "stars": 5089,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -278,11 +278,11 @@
                 "id": 9852918,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T03:55:17Z",
-                "open_issues": 180,
+                "last_commit": "2026-09-11T03:35:24Z",
+                "open_issues": 182,
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55250,
+                "stars": 55267,
                 "topics": [
                   "blogging",
                   "cms",
@@ -478,7 +478,7 @@
                     "open_issues": 176,
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18109,
+                    "stars": 18111,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -508,7 +508,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-07T18:51:33Z",
-                "open_issues": 1282,
+                "open_issues": 1283,
                 "owner": "ipython",
                 "repo": "ipython",
                 "stars": 16777,
@@ -589,7 +589,7 @@
                 "open_issues": 59,
                 "owner": "ondras",
                 "repo": "my-mind",
-                "stars": 3365,
+                "stars": 3366,
                 "topics": [
                   "hacktoberfest",
                   "mindmap",
@@ -729,7 +729,7 @@
                 "open_issues": 11,
                 "owner": "tantaman",
                 "repo": "strut",
-                "stars": 1890,
+                "stars": 1891,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -797,11 +797,11 @@
                     "id": 1861458,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-24T09:06:06Z",
-                    "open_issues": 916,
+                    "last_commit": "2026-09-10T15:41:21Z",
+                    "open_issues": 914,
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72280,
+                    "stars": 72283,
                     "topics": [
                       "presentations",
                       "slides",
@@ -826,7 +826,7 @@
                     "open_issues": 59,
                     "owner": "impress",
                     "repo": "impress.js",
-                    "stars": 38168,
+                    "stars": 38169,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -868,7 +868,7 @@
                     "open_issues": 40,
                     "owner": "shower",
                     "repo": "shower",
-                    "stars": 4874,
+                    "stars": 4875,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -889,7 +889,7 @@
                     "open_issues": 6,
                     "owner": "bespokejs",
                     "repo": "bespoke",
-                    "stars": 4796,
+                    "stars": 4797,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -935,7 +935,7 @@
                     "open_issues": 8,
                     "owner": "marcolago",
                     "repo": "flowtime.js",
-                    "stars": 1343,
+                    "stars": 1344,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1049,7 +1049,7 @@
                     "open_issues": 20,
                     "owner": "amix",
                     "repo": "vimrc",
-                    "stars": 31810,
+                    "stars": 31811,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1070,7 +1070,7 @@
                     "open_issues": 204,
                     "owner": "VundleVim",
                     "repo": "Vundle.vim",
-                    "stars": 23920,
+                    "stars": 23919,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1083,11 +1083,11 @@
                 "id": 40997482,
                 "language": "Vim Script",
                 "license": "Vim",
-                "last_commit": "2026-09-09T20:27:27Z",
+                "last_commit": "2026-09-10T19:36:40Z",
                 "open_issues": 1626,
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 40882,
+                "stars": 40888,
                 "topics": [
                   "c",
                   "cross-platform",
@@ -1385,7 +1385,7 @@
                 "open_issues": 2,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 29243,
+                "stars": 29271,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1613,7 +1613,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T03:55:19.722Z",
+    "last_updated": "2026-09-11T03:51:29.352Z",
     "original_repository_info": {
       "archived": false,
       "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]",
