@@ -42,7 +42,7 @@
                 "open_issues": 276,
                 "owner": "readthedocs",
                 "repo": "sphinx_rtd_theme",
-                "stars": 5085,
+                "stars": 5086,
                 "topics": [
                   "sphinx-doc",
                   "sphinx-theme"
@@ -278,11 +278,11 @@
                 "id": 9852918,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-14T03:56:56Z",
-                "open_issues": 194,
+                "last_commit": "2026-09-15T03:55:02Z",
+                "open_issues": 186,
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55295,
+                "stars": 55306,
                 "topics": [
                   "blogging",
                   "cms",
@@ -312,7 +312,7 @@
                 "open_issues": 18,
                 "owner": "picocms",
                 "repo": "Pico",
-                "stars": 3904,
+                "stars": 3905,
                 "topics": [
                   "cms",
                   "content-management",
@@ -409,27 +409,6 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "eme",
-                  "description": "(,,): Math support.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Elegant Markdown Editor.",
-                    "homepage": "https://egoist.sh/eme",
-                    "id": 63537564,
-                    "language": "JavaScript",
-                    "license": "MIT",
-                    "last_commit": "2022-12-10T20:27:42Z",
-                    "open_issues": 62,
-                    "owner": "egoist",
-                    "repo": "eme",
-                    "stars": 2056,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T10:26:16.843Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "ReText",
                   "description": "(,,): ReText one of the best, even on Linux. It also supports reStructuredText input.",
                   "children": [],
@@ -452,6 +431,27 @@
                       "markup-language",
                       "restructuredtext"
                     ]
+                  },
+                  "first_seen": "2026-08-28T10:26:16.843Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "eme",
+                  "description": "(,,): Math support.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Elegant Markdown Editor.",
+                    "homepage": "https://egoist.sh/eme",
+                    "id": 63537564,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2022-12-10T20:27:42Z",
+                    "open_issues": 62,
+                    "owner": "egoist",
+                    "repo": "eme",
+                    "stars": 2055,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
                 }
@@ -478,7 +478,7 @@
                     "open_issues": 176,
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18125,
+                    "stars": 18132,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -507,7 +507,7 @@
                 "id": 658518,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-07T18:51:33Z",
+                "last_commit": "2026-09-14T15:30:24Z",
                 "open_issues": 1285,
                 "owner": "ipython",
                 "repo": "ipython",
@@ -660,7 +660,7 @@
                 "open_issues": 1,
                 "owner": "hizzgdev",
                 "repo": "jsmind",
-                "stars": 3795,
+                "stars": 3794,
                 "topics": [
                   "bsd",
                   "canvas",
@@ -771,7 +771,7 @@
                 "open_issues": 26,
                 "owner": "harish-io",
                 "repo": "Impressionist",
-                "stars": 706,
+                "stars": 707,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -801,7 +801,7 @@
                     "open_issues": 915,
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72291,
+                    "stars": 72292,
                     "topics": [
                       "presentations",
                       "slides",
@@ -826,7 +826,7 @@
                     "open_issues": 59,
                     "owner": "impress",
                     "repo": "impress.js",
-                    "stars": 38169,
+                    "stars": 38170,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -864,8 +864,8 @@
                     "id": 1035184,
                     "language": "JavaScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-08T13:20:45Z",
-                    "open_issues": 40,
+                    "last_commit": "2026-09-14T19:05:50Z",
+                    "open_issues": 41,
                     "owner": "shower",
                     "repo": "shower",
                     "stars": 4875,
@@ -1070,7 +1070,7 @@
                     "open_issues": 204,
                     "owner": "VundleVim",
                     "repo": "Vundle.vim",
-                    "stars": 23919,
+                    "stars": 23920,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1083,11 +1083,11 @@
                 "id": 40997482,
                 "language": "Vim Script",
                 "license": "Vim",
-                "last_commit": "2026-09-13T16:16:16Z",
-                "open_issues": 1626,
+                "last_commit": "2026-09-14T19:01:17Z",
+                "open_issues": 1615,
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 40888,
+                "stars": 40890,
                 "topics": [
                   "c",
                   "cross-platform",
@@ -1382,10 +1382,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-09T20:56:00Z",
-                "open_issues": 10,
+                "open_issues": 13,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 29419,
+                "stars": 29443,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1613,7 +1613,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T04:11:00.067Z",
+    "last_updated": "2026-09-15T04:10:39.179Z",
     "original_repository_info": {
       "archived": false,
       "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]",
@@ -1625,7 +1625,7 @@
       "open_issues": 17,
       "owner": "emptymalei",
       "repo": "awesome-research",
-      "stars": 2768,
+      "stars": 2769,
       "topics": [
         "awesome",
         "awesome-list",
