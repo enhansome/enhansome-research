@@ -42,7 +42,7 @@
                 "open_issues": 276,
                 "owner": "readthedocs",
                 "repo": "sphinx_rtd_theme",
-                "stars": 5086,
+                "stars": 5087,
                 "topics": [
                   "sphinx-doc",
                   "sphinx-theme"
@@ -162,7 +162,7 @@
                 "open_issues": 24,
                 "owner": "btford",
                 "repo": "write-good",
-                "stars": 5090,
+                "stars": 5091,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -278,11 +278,11 @@
                 "id": 9852918,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-21T19:23:28Z",
-                "open_issues": 188,
+                "last_commit": "2026-09-22T15:38:08Z",
+                "open_issues": 202,
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55383,
+                "stars": 55386,
                 "topics": [
                   "blogging",
                   "cms",
@@ -450,7 +450,7 @@
                     "open_issues": 62,
                     "owner": "egoist",
                     "repo": "eme",
-                    "stars": 2055,
+                    "stars": 2054,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -478,7 +478,7 @@
                     "open_issues": 173,
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18154,
+                    "stars": 18164,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -508,7 +508,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-14T15:30:24Z",
-                "open_issues": 1292,
+                "open_issues": 1293,
                 "owner": "ipython",
                 "repo": "ipython",
                 "stars": 16784,
@@ -568,7 +568,7 @@
                 "open_issues": 131,
                 "owner": "fex-team",
                 "repo": "kityminder",
-                "stars": 4868,
+                "stars": 4869,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -660,7 +660,7 @@
                 "open_issues": 1,
                 "owner": "hizzgdev",
                 "repo": "jsmind",
-                "stars": 3794,
+                "stars": 3793,
                 "topics": [
                   "bsd",
                   "canvas",
@@ -801,7 +801,7 @@
                     "open_issues": 915,
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72333,
+                    "stars": 72343,
                     "topics": [
                       "presentations",
                       "slides",
@@ -826,7 +826,7 @@
                     "open_issues": 59,
                     "owner": "impress",
                     "repo": "impress.js",
-                    "stars": 38168,
+                    "stars": 38171,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -864,8 +864,8 @@
                     "id": 1035184,
                     "language": "JavaScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-21T19:05:11Z",
-                    "open_issues": 41,
+                    "last_commit": "2026-09-22T05:39:18Z",
+                    "open_issues": 40,
                     "owner": "shower",
                     "repo": "shower",
                     "stars": 4876,
@@ -889,7 +889,7 @@
                     "open_issues": 6,
                     "owner": "bespokejs",
                     "repo": "bespoke",
-                    "stars": 4795,
+                    "stars": 4793,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1049,7 +1049,7 @@
                     "open_issues": 20,
                     "owner": "amix",
                     "repo": "vimrc",
-                    "stars": 31813,
+                    "stars": 31812,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1070,7 +1070,7 @@
                     "open_issues": 204,
                     "owner": "VundleVim",
                     "repo": "Vundle.vim",
-                    "stars": 23920,
+                    "stars": 23921,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1084,10 +1084,10 @@
                 "language": "Vim Script",
                 "license": "Vim",
                 "last_commit": "2026-09-21T20:42:56Z",
-                "open_issues": 1630,
+                "open_issues": 1633,
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 40917,
+                "stars": 40919,
                 "topics": [
                   "c",
                   "cross-platform",
@@ -1176,7 +1176,7 @@
                 "open_issues": 0,
                 "owner": "shmlkv",
                 "repo": "dna-claude-analysis",
-                "stars": 57,
+                "stars": 58,
                 "topics": [
                   "analysis",
                   "claude",
@@ -1382,10 +1382,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-09T20:56:00Z",
-                "open_issues": 0,
+                "open_issues": 2,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 29673,
+                "stars": 29689,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1479,7 +1479,7 @@
                 "open_issues": 13,
                 "owner": "latexdraw",
                 "repo": "latexdraw",
-                "stars": 448,
+                "stars": 449,
                 "topics": [
                   "drawing-editor",
                   "eps",
@@ -1613,7 +1613,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T04:06:55.154Z",
+    "last_updated": "2026-09-23T04:03:47.919Z",
     "original_repository_info": {
       "archived": false,
       "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]",
@@ -1622,7 +1622,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-05-19T11:43:56Z",
-      "open_issues": 19,
+      "open_issues": 21,
       "owner": "emptymalei",
       "repo": "awesome-research",
       "stars": 2774,
