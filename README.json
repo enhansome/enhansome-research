@@ -42,7 +42,7 @@
                 "open_issues": 276,
                 "owner": "readthedocs",
                 "repo": "sphinx_rtd_theme",
-                "stars": 5090,
+                "stars": 5091,
                 "topics": [
                   "sphinx-doc",
                   "sphinx-theme"
@@ -278,11 +278,11 @@
                 "id": 9852918,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T23:29:45Z",
-                "open_issues": 209,
+                "last_commit": "2026-09-26T04:11:28Z",
+                "open_issues": 208,
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55424,
+                "stars": 55434,
                 "topics": [
                   "blogging",
                   "cms",
@@ -423,7 +423,7 @@
                     "open_issues": 77,
                     "owner": "retext-project",
                     "repo": "retext",
-                    "stars": 2058,
+                    "stars": 2059,
                     "topics": [
                       "editor",
                       "markdown",
@@ -475,10 +475,10 @@
                     "language": "JavaScript",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-09-17T13:21:12Z",
-                    "open_issues": 174,
+                    "open_issues": 175,
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18179,
+                    "stars": 18184,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -589,7 +589,7 @@
                 "open_issues": 59,
                 "owner": "ondras",
                 "repo": "my-mind",
-                "stars": 3366,
+                "stars": 3367,
                 "topics": [
                   "hacktoberfest",
                   "mindmap",
@@ -801,7 +801,7 @@
                     "open_issues": 916,
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72346,
+                    "stars": 72349,
                     "topics": [
                       "presentations",
                       "slides",
@@ -826,7 +826,7 @@
                     "open_issues": 59,
                     "owner": "impress",
                     "repo": "impress.js",
-                    "stars": 38172,
+                    "stars": 38173,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1049,7 +1049,7 @@
                     "open_issues": 20,
                     "owner": "amix",
                     "repo": "vimrc",
-                    "stars": 31815,
+                    "stars": 31814,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1083,11 +1083,11 @@
                 "id": 40997482,
                 "language": "Vim Script",
                 "license": "Vim",
-                "last_commit": "2026-09-24T19:20:08Z",
-                "open_issues": 1627,
+                "last_commit": "2026-09-26T02:37:30Z",
+                "open_issues": 1622,
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 40936,
+                "stars": 40951,
                 "topics": [
                   "c",
                   "cross-platform",
@@ -1382,10 +1382,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-09T20:56:00Z",
-                "open_issues": 6,
+                "open_issues": 12,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 29719,
+                "stars": 29740,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1551,7 +1551,7 @@
                 "open_issues": 24,
                 "owner": "glamp",
                 "repo": "bashplotlib",
-                "stars": 1919,
+                "stars": 1920,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1572,7 +1572,7 @@
                 "open_issues": 24,
                 "owner": "glamp",
                 "repo": "bashplotlib",
-                "stars": 1919,
+                "stars": 1920,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1613,7 +1613,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T04:13:37.566Z",
+    "last_updated": "2026-09-26T04:18:04.294Z",
     "original_repository_info": {
       "archived": false,
       "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]",
@@ -1622,10 +1622,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-05-19T11:43:56Z",
-      "open_issues": 21,
+      "open_issues": 20,
       "owner": "emptymalei",
       "repo": "awesome-research",
-      "stars": 2775,
+      "stars": 2774,
       "topics": [
         "awesome",
         "awesome-list",

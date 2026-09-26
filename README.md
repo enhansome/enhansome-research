@@ -1,6 +1,6 @@
 # Awesome Research Tools with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,047 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,539 | 🐛 107 | 📅 2026-09-02
 
 A list of tools for research. Also available on <https://tools.kausalflow.com/tools/>.
 
@@ -122,7 +122,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 
 ## Cloud Services
 
-*For self-hosted services, check out [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) ⭐ 321,575 | 🐛 0 | 📅 2026-09-23 on GitHub.*
+*For self-hosted services, check out [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) ⭐ 321,818 | 🐛 0 | 📅 2026-09-25 on GitHub.*
 
 ### Math and Programming Online
 
@@ -218,7 +218,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 
 **Sphinx Themes and configurations**
 
-* [rtd theme](https://github.com/snide/sphinx_rtd_theme) ⭐ 5,090 | 🐛 276 | 🌐 Sass | 📅 2026-01-12: Developed by ReadtheDocs.org
+* [rtd theme](https://github.com/snide/sphinx_rtd_theme) ⭐ 5,091 | 🐛 276 | 🌐 Sass | 📅 2026-01-12: Developed by ReadtheDocs.org
 * [Alabaster](https://github.com/bitprophet/alabaster) ⭐ 779 | 🐛 72 | 🌐 HTML | 📅 2024-07-26: Clean and simple
 * [Bootstrap theme](https://ryan-roemer.github.io/sphinx-bootstrap-theme/)
 
@@ -266,7 +266,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 
 > These programs are running on the server and can be [hosted using these services](#hosting).
 
-* [Ghost](https://github.com/tryghost/Ghost) ⭐ 55,424 | 🐛 209 | 🌐 TypeScript | 📅 2026-09-24 (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
+* [Ghost](https://github.com/tryghost/Ghost) ⭐ 55,434 | 🐛 208 | 🌐 TypeScript | 📅 2026-09-26 (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
 * [Pico](https://github.com/picocms/Pico) ⭐ 3,905 | 🐛 18 | 🌐 PHP | 📅 2026-07-07 (`PHP`): Lightweight cms, open source, no database.
 * [Dropplets](https://github.com/circa75/dropplets) ⭐ 1,613 | 🐛 5 | 🌐 PHP | 📅 2023-02-20 (`PHP`): Open source, simple, and elegant blog system; write in Markdown.
 * [GitBook](https://www.gitbook.com/) (`Cloud`): write in Markdown and collaborate with the team. GitBook integrates with GitHub so no content will be lost.
@@ -303,7 +303,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 
 #### Markdown
 
-* [ReText](https://github.com/retext-project/retext) ⭐ 2,058 | 🐛 77 | 🌐 Python | 📅 2026-09-24 (`Mac`,`Win`,`Linux`): ReText one of the best, even on Linux. It also supports reStructuredText input.
+* [ReText](https://github.com/retext-project/retext) ⭐ 2,059 | 🐛 77 | 🌐 Python | 📅 2026-09-24 (`Mac`,`Win`,`Linux`): ReText one of the best, even on Linux. It also supports reStructuredText input.
 * [eme](https://github.com/egoist/eme) ⭐ 2,053 | 🐛 62 | 🌐 JavaScript | 📅 2022-12-10 (`Win`,`Mac`,`Linux`): Math support.
 * [Hackmd.io](https://hackmd.io) (`Cloud`): Basically ships with everything you expect from the most complete online markdown editor.
 * [StackEdit](https://stackedit.io/)(`Cloud`): StackEdit is a Markdown editor with many integrated services such as math (MathJax), Google Drive, Dropbox, and GitHub.
@@ -340,7 +340,7 @@ Notebook softwares that you can write in Markdown:
 
 **You can also host one using your own machine.**
 
-* [Overleaf Source Code](https://github.com/overleaf/overleaf) ⭐ 18,179 | 🐛 174 | 🌐 JavaScript | 📅 2026-09-17: Overleaf open sourced their codes. This is a great move I would say.
+* [Overleaf Source Code](https://github.com/overleaf/overleaf) ⭐ 18,184 | 🐛 175 | 🌐 JavaScript | 📅 2026-09-17: Overleaf open sourced their codes. This is a great move I would say.
 * [TeXStudio](http://www.texstudio.org) - Cross-platform LaTeX editor that stems from TeXMaker.
 * [WinEdt](http://www.winedt.com) - The LaTeX editor many people swear by.
 * [TeXnicCenter](http://www.texniccenter.org) - A quite old but free and decent editor for LaTeX.
@@ -371,7 +371,7 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 **Online**
 
 * [KityMinder By Baidu](https://github.com/fex-team/kityminder) ⭐ 4,871 | 🐛 131 | 🌐 JavaScript | 📅 2019-08-10 : Chinese Interface
-* [my-mind](http://my-mind.github.io/): repo [here](https://github.com/ondras/my-mind) ⭐ 3,366 | 🐛 59 | 🌐 TypeScript | 📅 2024-06-18.
+* [my-mind](http://my-mind.github.io/): repo [here](https://github.com/ondras/my-mind) ⭐ 3,367 | 🐛 59 | 🌐 TypeScript | 📅 2024-06-18.
 * [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps) ⭐ 2,865 | 🐛 34 | 🌐 JavaScript | 📅 2023-02-05
 * [beautiful Mind](http://beautifulmind.io/): repo [here](https://github.com/ierror/BeautifulMind.io) ⭐ 118 | 🐛 4 | 🌐 Python | 📅 2015-02-27
 * [Mindmup](https://www.mindmup.com/): repo [here](https://github.com/mindmup)
@@ -430,10 +430,10 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 #### HTML+CSS+JS
 
-> Use [colors](https://github.com/mrmrs/colors) ⭐ 9,416 | 🐛 16 | 🌐 CSS | 📅 2023-07-20 to make your HTML feels better.
+> Use [colors](https://github.com/mrmrs/colors) ⭐ 9,418 | 🐛 16 | 🌐 CSS | 📅 2023-07-20 to make your HTML feels better.
 
-* [Reveal.js](https://github.com/hakimel/reveal.js) ⭐ 72,346 | 🐛 916 | 🌐 JavaScript | 📅 2026-09-18
-* [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki) ⭐ 38,172 | 🐛 59 | 🌐 JavaScript | 📅 2026-07-23.
+* [Reveal.js](https://github.com/hakimel/reveal.js) ⭐ 72,349 | 🐛 916 | 🌐 JavaScript | 📅 2026-09-18
+* [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki) ⭐ 38,173 | 🐛 59 | 🌐 JavaScript | 📅 2026-07-23.
 * [Deck.js](https://github.com/imakewebthings/deck.js) ⭐ 5,418 | 🐛 42 | 🌐 JavaScript | 📅 2019-01-28
 * [Shower](https://github.com/shower/shower) ⭐ 4,877 | 🐛 40 | 🌐 JavaScript | 📅 2026-09-22
 * [Beckpoke.js](https://github.com/bespokejs/bespoke) ⭐ 4,793 | 🐛 6 | 🌐 JavaScript | 📅 2020-09-08
@@ -478,8 +478,8 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 ### Code Editors
 
-* [vim](https://github.com/vim/vim) ⭐ 40,936 | 🐛 1,627 | 🌐 Vim Script | 📅 2026-09-24(`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
-  * [vimrc from amix](https://github.com/amix/vimrc) ⭐ 31,815 | 🐛 20 | 🌐 Vim Script | 📅 2024-10-06: "The ultimate Vim configuration: vimrc"
+* [vim](https://github.com/vim/vim) ⭐ 40,951 | 🐛 1,622 | 🌐 Vim Script | 📅 2026-09-26(`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
+  * [vimrc from amix](https://github.com/amix/vimrc) ⭐ 31,814 | 🐛 20 | 🌐 Vim Script | 📅 2024-10-06: "The ultimate Vim configuration: vimrc"
   * [Vundle](https://github.com/VundleVim/Vundle.vim) ⭐ 23,921 | 🐛 204 | 🌐 Vim Script | 📅 2024-07-30: the vim plugin manager
 * [Visual Studio Code, aka VS Code](https://code.visualstudio.com/)(`Free`,`Cross-platform`,`Plugins`): same technology as atom but faster than atom, and Microsoft made.
 * [Atom](https://atom.io/)(`Free`,`Cross-platform`,`Plugins`): electron based editor with numerous plugins and easy modifications. Cross-platform with settings and plugins synchronized through the [sync-settings](https://atom.io/packages/sync-settings) plugin.
@@ -567,7 +567,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 ### Tips for Researchers
 
-* Check the [Academic Resources and Grey Literature List](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) ⭐ 29,719 | 🐛 6 | 📅 2026-09-09 of the [Awesome Open-Source Intelligence List](https://github.com/jivoi/awesome-osint) ⭐ 29,719 | 🐛 6 | 📅 2026-09-09 for search engines to search for papers.
+* Check the [Academic Resources and Grey Literature List](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) ⭐ 29,740 | 🐛 12 | 📅 2026-09-09 of the [Awesome Open-Source Intelligence List](https://github.com/jivoi/awesome-osint) ⭐ 29,740 | 🐛 12 | 📅 2026-09-09 for search engines to search for papers.
 * [Ten Simple Rules by PLoS One](http://collections.plos.org/ten-simple-rules): Series of quick "Ten Simple Rules" articles for research scientists to manage challenges in their careers. Number of articles are life-science specific, but rest the of articles are general enough for any researcher.
 
 ## Pacifier
@@ -711,8 +711,8 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 ### Terminal
 
-* [plot in terminal](https://github.com/glamp/bashplotlib) ⭐ 1,919 | 🐛 24 | 🌐 Python | 📅 2024-06-23
-* [bashplot](https://github.com/glamp/bashplotlib) ⭐ 1,919 | 🐛 24 | 🌐 Python | 📅 2024-06-23: plot in terminal.
+* [plot in terminal](https://github.com/glamp/bashplotlib) ⭐ 1,920 | 🐛 24 | 🌐 Python | 📅 2024-06-23
+* [bashplot](https://github.com/glamp/bashplotlib) ⭐ 1,920 | 🐛 24 | 🌐 Python | 📅 2024-06-23: plot in terminal.
 * [fuck](https://github.com/EricFreeman/fuck) ⭐ 399 | 🐛 3 | 🌐 C# | 📅 2020-09-30: correct the command by typing in fuck.
 * [asciinema](https://asciinema.org/): Command line recording.
 
@@ -742,4 +742,4 @@ This is a CC BY-SA licensed project. Use the source! Keep the source open!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
