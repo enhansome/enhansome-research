@@ -183,7 +183,7 @@
                 "open_issues": 236,
                 "owner": "amperser",
                 "repo": "proselint",
-                "stars": 4578,
+                "stars": 4579,
                 "topics": [
                   "advice",
                   "knowledge",
@@ -278,11 +278,11 @@
                 "id": 9852918,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-27T04:28:17Z",
+                "last_commit": "2026-09-28T03:52:07Z",
                 "open_issues": 213,
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55438,
+                "stars": 55450,
                 "topics": [
                   "blogging",
                   "cms",
@@ -423,7 +423,7 @@
                     "open_issues": 77,
                     "owner": "retext-project",
                     "repo": "retext",
-                    "stars": 2059,
+                    "stars": 2060,
                     "topics": [
                       "editor",
                       "markdown",
@@ -478,7 +478,7 @@
                     "open_issues": 175,
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18187,
+                    "stars": 18188,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -511,7 +511,7 @@
                 "open_issues": 1297,
                 "owner": "ipython",
                 "repo": "ipython",
-                "stars": 16787,
+                "stars": 16788,
                 "topics": [
                   "closember",
                   "data-science",
@@ -801,7 +801,7 @@
                     "open_issues": 916,
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72348,
+                    "stars": 72352,
                     "topics": [
                       "presentations",
                       "slides",
@@ -1083,11 +1083,11 @@
                 "id": 40997482,
                 "language": "Vim Script",
                 "license": "Vim",
-                "last_commit": "2026-09-26T15:10:37Z",
-                "open_issues": 1628,
+                "last_commit": "2026-09-27T16:11:19Z",
+                "open_issues": 1634,
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 40963,
+                "stars": 40979,
                 "topics": [
                   "c",
                   "cross-platform",
@@ -1176,7 +1176,7 @@
                 "open_issues": 0,
                 "owner": "shmlkv",
                 "repo": "dna-claude-analysis",
-                "stars": 58,
+                "stars": 59,
                 "topics": [
                   "analysis",
                   "claude",
@@ -1320,7 +1320,7 @@
                 "open_issues": 5,
                 "owner": "jkitchin",
                 "repo": "org-ref",
-                "stars": 1434,
+                "stars": 1435,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1382,10 +1382,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-09T20:56:00Z",
-                "open_issues": 4,
+                "open_issues": 2,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 29779,
+                "stars": 29799,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1613,7 +1613,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T04:34:05.945Z",
+    "last_updated": "2026-09-28T04:35:38.292Z",
     "original_repository_info": {
       "archived": false,
       "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]",
@@ -1625,7 +1625,7 @@
       "open_issues": 20,
       "owner": "emptymalei",
       "repo": "awesome-research",
-      "stars": 2775,
+      "stars": 2777,
       "topics": [
         "awesome",
         "awesome-list",
