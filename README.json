@@ -74,7 +74,7 @@
             {
               "node_type": "item",
               "title": "Theoretical Physics",
-              "description": null,
+              "description": "certik/theoretical-physics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -100,7 +100,7 @@
             {
               "node_type": "item",
               "title": "Statistical Physics",
-              "description": null,
+              "description": "emptymalei/statisticalphysics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -124,7 +124,7 @@
             {
               "node_type": "item",
               "title": "Neutrino Physics",
-              "description": null,
+              "description": "NeuPhysics/neutrino",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -183,7 +183,7 @@
                 "open_issues": 236,
                 "owner": "amperser",
                 "repo": "proselint",
-                "stars": 4579,
+                "stars": 4581,
                 "topics": [
                   "advice",
                   "knowledge",
@@ -278,8 +278,8 @@
                 "id": 9852918,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T04:25:52Z",
-                "open_issues": 226,
+                "last_commit": "2026-10-02T23:38:24Z",
+                "open_issues": 202,
                 "owner": "TryGhost",
                 "repo": "Ghost",
                 "stars": 55475,
@@ -372,7 +372,7 @@
                 {
                   "node_type": "item",
                   "title": "Pelican Svbtle Theme",
-                  "description": null,
+                  "description": "wting/pelican-svbtle",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -410,7 +410,7 @@
                 {
                   "node_type": "item",
                   "title": "ReText",
-                  "description": "(,,): ReText one of the best, even on Linux. It also supports reStructuredText input.",
+                  "description": "ReText one of the best, even on Linux. It also supports reStructuredText input.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -423,7 +423,7 @@
                     "open_issues": 78,
                     "owner": "retext-project",
                     "repo": "retext",
-                    "stars": 2060,
+                    "stars": 2061,
                     "topics": [
                       "editor",
                       "markdown",
@@ -437,7 +437,7 @@
                 {
                   "node_type": "item",
                   "title": "eme",
-                  "description": "(,,): Math support.",
+                  "description": "Math support.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -478,7 +478,7 @@
                     "open_issues": 173,
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18202,
+                    "stars": 18204,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -511,7 +511,7 @@
                 "open_issues": 1305,
                 "owner": "ipython",
                 "repo": "ipython",
-                "stars": 16786,
+                "stars": 16785,
                 "topics": [
                   "closember",
                   "data-science",
@@ -527,7 +527,7 @@
             {
               "node_type": "item",
               "title": "Scientific Python Lectures",
-              "description": null,
+              "description": "jrjohansson/scientific-python-lectures",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -540,7 +540,7 @@
                 "open_issues": 15,
                 "owner": "jrjohansson",
                 "repo": "scientific-python-lectures",
-                "stars": 3658,
+                "stars": 3659,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -568,7 +568,7 @@
                 "open_issues": 131,
                 "owner": "fex-team",
                 "repo": "kityminder",
-                "stars": 4871,
+                "stars": 4869,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -647,7 +647,7 @@
             {
               "node_type": "item",
               "title": "jsmind",
-              "description": null,
+              "description": "hizzgdev/jsmind",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -678,7 +678,7 @@
             {
               "node_type": "item",
               "title": "mindmaps",
-              "description": null,
+              "description": "drichard/mindmaps",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -716,7 +716,7 @@
             {
               "node_type": "item",
               "title": "Strut",
-              "description": null,
+              "description": "tantaman/strut",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -737,7 +737,7 @@
             {
               "node_type": "item",
               "title": "hovercraft",
-              "description": null,
+              "description": "regebro/hovercraft",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -758,7 +758,7 @@
             {
               "node_type": "item",
               "title": "Impressionist",
-              "description": null,
+              "description": "harish-io/Impressionist",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -788,7 +788,7 @@
                 {
                   "node_type": "item",
                   "title": "Reveal.js",
-                  "description": null,
+                  "description": "hakimel/reveal.js",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -801,7 +801,7 @@
                     "open_issues": 918,
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72370,
+                    "stars": 72377,
                     "topics": [
                       "presentations",
                       "slides",
@@ -826,7 +826,7 @@
                     "open_issues": 59,
                     "owner": "impress",
                     "repo": "impress.js",
-                    "stars": 38156,
+                    "stars": 38158,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -834,7 +834,7 @@
                 {
                   "node_type": "item",
                   "title": "Deck.js",
-                  "description": null,
+                  "description": "imakewebthings/deck.js",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -847,7 +847,7 @@
                     "open_issues": 42,
                     "owner": "imakewebthings",
                     "repo": "deck.js",
-                    "stars": 5418,
+                    "stars": 5417,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -855,7 +855,7 @@
                 {
                   "node_type": "item",
                   "title": "Shower",
-                  "description": null,
+                  "description": "shower/shower",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -876,7 +876,7 @@
                 {
                   "node_type": "item",
                   "title": "Beckpoke.js",
-                  "description": null,
+                  "description": "bespokejs/bespoke",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -897,7 +897,7 @@
                 {
                   "node_type": "item",
                   "title": "CSSS",
-                  "description": null,
+                  "description": "inspire-js/inspire.js",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -922,7 +922,7 @@
                 {
                   "node_type": "item",
                   "title": "Flowtime.js",
-                  "description": null,
+                  "description": "marcolago/flowtime.js",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -943,7 +943,7 @@
                 {
                   "node_type": "item",
                   "title": "Scrolldeck",
-                  "description": null,
+                  "description": "johnpolacek/scrolldeck.js",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -964,7 +964,7 @@
                 {
                   "node_type": "item",
                   "title": "Slides",
-                  "description": null,
+                  "description": "briancavalier/slides",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -997,7 +997,7 @@
             {
               "node_type": "item",
               "title": "ext-sozi",
-              "description": null,
+              "description": "asyazwan/ext-sozi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1031,7 +1031,7 @@
             {
               "node_type": "item",
               "title": "vim",
-              "description": "(,,): no words can describe the almighty vim.",
+              "description": "no words can describe the almighty vim.",
               "children": [
                 {
                   "node_type": "item",
@@ -1070,7 +1070,7 @@
                     "open_issues": 204,
                     "owner": "VundleVim",
                     "repo": "Vundle.vim",
-                    "stars": 23918,
+                    "stars": 23917,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1083,11 +1083,11 @@
                 "id": 40997482,
                 "language": "Vim Script",
                 "license": "Vim",
-                "last_commit": "2026-10-01T18:27:30Z",
-                "open_issues": 1630,
+                "last_commit": "2026-10-03T02:34:00Z",
+                "open_issues": 1636,
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 41011,
+                "stars": 41016,
                 "topics": [
                   "c",
                   "cross-platform",
@@ -1216,7 +1216,7 @@
                 "open_issues": 1,
                 "owner": "marcpinet",
                 "repo": "citracer",
-                "stars": 38,
+                "stars": 39,
                 "topics": [
                   "academic-research",
                   "bibliography",
@@ -1382,10 +1382,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-09T20:56:00Z",
-                "open_issues": 0,
+                "open_issues": 2,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 29863,
+                "stars": 29876,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1410,7 +1410,7 @@
             {
               "node_type": "item",
               "title": "matplotlib",
-              "description": null,
+              "description": "jbmouret/matplotlib_for_papers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1538,7 +1538,7 @@
             {
               "node_type": "item",
               "title": "plot in terminal",
-              "description": null,
+              "description": "glamp/bashplotlib",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1613,7 +1613,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T04:53:36.278Z",
+    "last_updated": "2026-10-03T04:50:12.824Z",
     "original_repository_info": {
       "archived": false,
       "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]",
@@ -1625,7 +1625,7 @@
       "open_issues": 20,
       "owner": "emptymalei",
       "repo": "awesome-research",
-      "stars": 2778,
+      "stars": 2781,
       "topics": [
         "awesome",
         "awesome-list",
