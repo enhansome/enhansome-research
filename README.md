@@ -1,6 +1,6 @@
 # Awesome Research Tools with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,802 | 🐛 106 | 📅 2026-09-02
 
 A list of tools for research. Also available on <https://tools.kausalflow.com/tools/>.
 
@@ -122,7 +122,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 
 ## Cloud Services
 
-*For self-hosted services, check out [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) ⭐ 323,479 | 🐛 0 | 📅 2026-10-02 on GitHub.*
+*For self-hosted services, check out [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) ⭐ 323,485 | 🐛 0 | 📅 2026-10-02 on GitHub.*
 
 ### Math and Programming Online
 
@@ -433,7 +433,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 > Use [colors](https://github.com/mrmrs/colors) ⭐ 9,423 | 🐛 16 | 🌐 CSS | 📅 2023-07-20 to make your HTML feels better.
 
 * [Reveal.js](https://github.com/hakimel/reveal.js) ⭐ 72,377 | 🐛 918 | 🌐 JavaScript | 📅 2026-09-30
-* [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki) ⭐ 38,158 | 🐛 59 | 🌐 JavaScript | 📅 2026-07-23.
+* [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki) ⭐ 38,157 | 🐛 59 | 🌐 JavaScript | 📅 2026-07-23.
 * [Deck.js](https://github.com/imakewebthings/deck.js) ⭐ 5,417 | 🐛 42 | 🌐 JavaScript | 📅 2019-01-28
 * [Shower](https://github.com/shower/shower) ⭐ 4,876 | 🐛 40 | 🌐 JavaScript | 📅 2026-09-28
 * [Beckpoke.js](https://github.com/bespokejs/bespoke) ⭐ 4,792 | 🐛 6 | 🌐 JavaScript | 📅 2020-09-08
@@ -567,7 +567,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 ### Tips for Researchers
 
-* Check the [Academic Resources and Grey Literature List](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) ⭐ 29,876 | 🐛 2 | 📅 2026-09-09 of the [Awesome Open-Source Intelligence List](https://github.com/jivoi/awesome-osint) ⭐ 29,876 | 🐛 2 | 📅 2026-09-09 for search engines to search for papers.
+* Check the [Academic Resources and Grey Literature List](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) ⭐ 29,877 | 🐛 2 | 📅 2026-09-09 of the [Awesome Open-Source Intelligence List](https://github.com/jivoi/awesome-osint) ⭐ 29,877 | 🐛 2 | 📅 2026-09-09 for search engines to search for papers.
 * [Ten Simple Rules by PLoS One](http://collections.plos.org/ten-simple-rules): Series of quick "Ten Simple Rules" articles for research scientists to manage challenges in their careers. Number of articles are life-science specific, but rest the of articles are general enough for any researcher.
 
 ## Pacifier
