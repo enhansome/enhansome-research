@@ -162,7 +162,7 @@
                 "open_issues": 25,
                 "owner": "btford",
                 "repo": "write-good",
-                "stars": 5093,
+                "stars": 5094,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -278,11 +278,11 @@
                 "id": 9852918,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-04T02:18:05Z",
-                "open_issues": 206,
+                "last_commit": "2026-10-05T04:09:46Z",
+                "open_issues": 194,
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55478,
+                "stars": 55484,
                 "topics": [
                   "blogging",
                   "cms",
@@ -475,10 +475,10 @@
                     "language": "JavaScript",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-09-17T13:21:12Z",
-                    "open_issues": 173,
+                    "open_issues": 174,
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18205,
+                    "stars": 18209,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -508,10 +508,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-01T04:12:10Z",
-                "open_issues": 1306,
+                "open_issues": 1309,
                 "owner": "ipython",
                 "repo": "ipython",
-                "stars": 16785,
+                "stars": 16786,
                 "topics": [
                   "closember",
                   "data-science",
@@ -801,7 +801,7 @@
                     "open_issues": 918,
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72376,
+                    "stars": 72377,
                     "topics": [
                       "presentations",
                       "slides",
@@ -826,7 +826,7 @@
                     "open_issues": 59,
                     "owner": "impress",
                     "repo": "impress.js",
-                    "stars": 38157,
+                    "stars": 38155,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1084,10 +1084,10 @@
                 "language": "Vim Script",
                 "license": "Vim",
                 "last_commit": "2026-10-03T14:59:03Z",
-                "open_issues": 1642,
+                "open_issues": 1652,
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 41064,
+                "stars": 41110,
                 "topics": [
                   "c",
                   "cross-platform",
@@ -1381,11 +1381,11 @@
                 "id": 75189212,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-04T03:35:56Z",
+                "last_commit": "2026-10-05T00:34:52Z",
                 "open_issues": 0,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 29891,
+                "stars": 29912,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1613,7 +1613,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T05:06:40.264Z",
+    "last_updated": "2026-10-05T04:52:25.439Z",
     "original_repository_info": {
       "archived": false,
       "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]",
@@ -1625,7 +1625,7 @@
       "open_issues": 20,
       "owner": "emptymalei",
       "repo": "awesome-research",
-      "stars": 2781,
+      "stars": 2783,
       "topics": [
         "awesome",
         "awesome-list",
