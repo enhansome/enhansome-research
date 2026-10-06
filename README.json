@@ -278,11 +278,11 @@
                 "id": 9852918,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T04:09:46Z",
-                "open_issues": 194,
+                "last_commit": "2026-10-06T05:39:34Z",
+                "open_issues": 205,
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55484,
+                "stars": 55488,
                 "topics": [
                   "blogging",
                   "cms",
@@ -475,10 +475,10 @@
                     "language": "JavaScript",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-09-17T13:21:12Z",
-                    "open_issues": 174,
+                    "open_issues": 173,
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18209,
+                    "stars": 18210,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -511,7 +511,7 @@
                 "open_issues": 1309,
                 "owner": "ipython",
                 "repo": "ipython",
-                "stars": 16786,
+                "stars": 16785,
                 "topics": [
                   "closember",
                   "data-science",
@@ -540,7 +540,7 @@
                 "open_issues": 15,
                 "owner": "jrjohansson",
                 "repo": "scientific-python-lectures",
-                "stars": 3659,
+                "stars": 3660,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -729,7 +729,7 @@
                 "open_issues": 12,
                 "owner": "tantaman",
                 "repo": "strut",
-                "stars": 1891,
+                "stars": 1892,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -801,7 +801,7 @@
                     "open_issues": 918,
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72377,
+                    "stars": 72381,
                     "topics": [
                       "presentations",
                       "slides",
@@ -864,7 +864,7 @@
                     "id": 1035184,
                     "language": "JavaScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-28T19:56:57Z",
+                    "last_commit": "2026-10-05T20:03:39Z",
                     "open_issues": 40,
                     "owner": "shower",
                     "repo": "shower",
@@ -1049,7 +1049,7 @@
                     "open_issues": 20,
                     "owner": "amix",
                     "repo": "vimrc",
-                    "stars": 31812,
+                    "stars": 31811,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1070,7 +1070,7 @@
                     "open_issues": 204,
                     "owner": "VundleVim",
                     "repo": "Vundle.vim",
-                    "stars": 23916,
+                    "stars": 23917,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1083,11 +1083,11 @@
                 "id": 40997482,
                 "language": "Vim Script",
                 "license": "Vim",
-                "last_commit": "2026-10-03T14:59:03Z",
-                "open_issues": 1652,
+                "last_commit": "2026-10-05T19:33:50Z",
+                "open_issues": 1654,
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 41110,
+                "stars": 41126,
                 "topics": [
                   "c",
                   "cross-platform",
@@ -1213,7 +1213,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-30T21:00:32Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "marcpinet",
                 "repo": "citracer",
                 "stars": 39,
@@ -1382,10 +1382,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-05T00:34:52Z",
-                "open_issues": 0,
+                "open_issues": 3,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 29912,
+                "stars": 29972,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1423,7 +1423,7 @@
                 "open_issues": 1,
                 "owner": "jbmouret",
                 "repo": "matplotlib_for_papers",
-                "stars": 2205,
+                "stars": 2206,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1613,7 +1613,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T04:52:25.439Z",
+    "last_updated": "2026-10-06T05:40:00.077Z",
     "original_repository_info": {
       "archived": false,
       "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]",
@@ -1625,7 +1625,7 @@
       "open_issues": 20,
       "owner": "emptymalei",
       "repo": "awesome-research",
-      "stars": 2783,
+      "stars": 2784,
       "topics": [
         "awesome",
         "awesome-list",
