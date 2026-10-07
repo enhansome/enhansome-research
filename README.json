@@ -278,11 +278,11 @@
                 "id": 9852918,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T10:29:46Z",
-                "open_issues": 195,
+                "last_commit": "2026-10-07T05:00:53Z",
+                "open_issues": 203,
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55491,
+                "stars": 55493,
                 "topics": [
                   "blogging",
                   "cms",
@@ -312,7 +312,7 @@
                 "open_issues": 18,
                 "owner": "picocms",
                 "repo": "Pico",
-                "stars": 3905,
+                "stars": 3904,
                 "topics": [
                   "cms",
                   "content-management",
@@ -423,7 +423,7 @@
                     "open_issues": 78,
                     "owner": "retext-project",
                     "repo": "retext",
-                    "stars": 2061,
+                    "stars": 2062,
                     "topics": [
                       "editor",
                       "markdown",
@@ -478,7 +478,7 @@
                     "open_issues": 173,
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18211,
+                    "stars": 18214,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -508,10 +508,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-01T04:12:10Z",
-                "open_issues": 1309,
+                "open_issues": 1311,
                 "owner": "ipython",
                 "repo": "ipython",
-                "stars": 16785,
+                "stars": 16786,
                 "topics": [
                   "closember",
                   "data-science",
@@ -801,7 +801,7 @@
                     "open_issues": 918,
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72384,
+                    "stars": 72383,
                     "topics": [
                       "presentations",
                       "slides",
@@ -826,7 +826,7 @@
                     "open_issues": 59,
                     "owner": "impress",
                     "repo": "impress.js",
-                    "stars": 38155,
+                    "stars": 38154,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1049,7 +1049,7 @@
                     "open_issues": 20,
                     "owner": "amix",
                     "repo": "vimrc",
-                    "stars": 31812,
+                    "stars": 31810,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1083,11 +1083,11 @@
                 "id": 40997482,
                 "language": "Vim Script",
                 "license": "Vim",
-                "last_commit": "2026-10-05T19:33:50Z",
-                "open_issues": 1655,
+                "last_commit": "2026-10-06T18:25:57Z",
+                "open_issues": 1654,
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 41134,
+                "stars": 41153,
                 "topics": [
                   "c",
                   "cross-platform",
@@ -1212,7 +1212,7 @@
                 "id": 1204385203,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-30T21:00:32Z",
+                "last_commit": "2026-10-06T22:55:38Z",
                 "open_issues": 2,
                 "owner": "marcpinet",
                 "repo": "citracer",
@@ -1320,7 +1320,7 @@
                 "open_issues": 5,
                 "owner": "jkitchin",
                 "repo": "org-ref",
-                "stars": 1435,
+                "stars": 1436,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1381,11 +1381,11 @@
                 "id": 75189212,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T09:06:33Z",
+                "last_commit": "2026-10-07T04:16:14Z",
                 "open_issues": 0,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 29986,
+                "stars": 30006,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1613,7 +1613,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:31:34.048Z",
+    "last_updated": "2026-10-07T05:10:21.226Z",
     "original_repository_info": {
       "archived": false,
       "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]",
@@ -1622,10 +1622,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-05-19T11:43:56Z",
-      "open_issues": 20,
+      "open_issues": 21,
       "owner": "emptymalei",
       "repo": "awesome-research",
-      "stars": 2784,
+      "stars": 2785,
       "topics": [
         "awesome",
         "awesome-list",
