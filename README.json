@@ -42,7 +42,7 @@
                 "open_issues": 279,
                 "owner": "readthedocs",
                 "repo": "sphinx_rtd_theme",
-                "stars": 5097,
+                "stars": 5098,
                 "topics": [
                   "sphinx-doc",
                   "sphinx-theme"
@@ -278,11 +278,11 @@
                 "id": 9852918,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T00:45:05Z",
-                "open_issues": 187,
+                "last_commit": "2026-10-14T02:49:52Z",
+                "open_issues": 197,
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55524,
+                "stars": 55532,
                 "topics": [
                   "blogging",
                   "cms",
@@ -312,7 +312,7 @@
                 "open_issues": 18,
                 "owner": "picocms",
                 "repo": "Pico",
-                "stars": 3902,
+                "stars": 3901,
                 "topics": [
                   "cms",
                   "content-management",
@@ -347,7 +347,7 @@
                 "open_issues": 5,
                 "owner": "johnroper100",
                 "repo": "dropplets",
-                "stars": 1612,
+                "stars": 1611,
                 "topics": [
                   "blog",
                   "blog-engine",
@@ -450,7 +450,7 @@
                     "open_issues": 62,
                     "owner": "egoist",
                     "repo": "eme",
-                    "stars": 2053,
+                    "stars": 2054,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -478,7 +478,7 @@
                     "open_issues": 174,
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18231,
+                    "stars": 18232,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -589,7 +589,7 @@
                 "open_issues": 59,
                 "owner": "ondras",
                 "repo": "my-mind",
-                "stars": 3367,
+                "stars": 3368,
                 "topics": [
                   "hacktoberfest",
                   "mindmap",
@@ -660,7 +660,7 @@
                 "open_issues": 1,
                 "owner": "hizzgdev",
                 "repo": "jsmind",
-                "stars": 3793,
+                "stars": 3794,
                 "topics": [
                   "bsd",
                   "canvas",
@@ -729,7 +729,7 @@
                 "open_issues": 12,
                 "owner": "tantaman",
                 "repo": "strut",
-                "stars": 1893,
+                "stars": 1892,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -771,7 +771,7 @@
                 "open_issues": 26,
                 "owner": "harish-io",
                 "repo": "Impressionist",
-                "stars": 707,
+                "stars": 706,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -801,7 +801,7 @@
                     "open_issues": 927,
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72417,
+                    "stars": 72420,
                     "topics": [
                       "presentations",
                       "slides",
@@ -864,8 +864,8 @@
                     "id": 1035184,
                     "language": "JavaScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-05T20:03:39Z",
-                    "open_issues": 40,
+                    "last_commit": "2026-10-14T01:01:54Z",
+                    "open_issues": 41,
                     "owner": "shower",
                     "repo": "shower",
                     "stars": 4876,
@@ -1049,7 +1049,7 @@
                     "open_issues": 20,
                     "owner": "amix",
                     "repo": "vimrc",
-                    "stars": 31808,
+                    "stars": 31803,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1083,11 +1083,11 @@
                 "id": 40997482,
                 "language": "Vim Script",
                 "license": "Vim",
-                "last_commit": "2026-10-12T20:43:04Z",
-                "open_issues": 1694,
+                "last_commit": "2026-10-13T20:30:34Z",
+                "open_issues": 1682,
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 41215,
+                "stars": 41239,
                 "topics": [
                   "c",
                   "cross-platform",
@@ -1381,11 +1381,11 @@
                 "id": 75189212,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-11T10:59:20Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-13T19:21:08Z",
+                "open_issues": 3,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 30186,
+                "stars": 30211,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1444,7 +1444,7 @@
                 "open_issues": 25,
                 "owner": "daleroberts",
                 "repo": "itermplot",
-                "stars": 1498,
+                "stars": 1499,
                 "topics": [
                   "command-line",
                   "iterm2",
@@ -1613,7 +1613,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T06:11:11.375Z",
+    "last_updated": "2026-10-14T04:13:49.356Z",
     "original_repository_info": {
       "archived": false,
       "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]",
