@@ -42,7 +42,7 @@
                 "open_issues": 280,
                 "owner": "readthedocs",
                 "repo": "sphinx_rtd_theme",
-                "stars": 5096,
+                "stars": 5095,
                 "topics": [
                   "sphinx-doc",
                   "sphinx-theme"
@@ -278,11 +278,11 @@
                 "id": 9852918,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-17T01:12:05Z",
+                "last_commit": "2026-10-17T13:12:04Z",
                 "open_issues": 206,
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55551,
+                "stars": 55559,
                 "topics": [
                   "blogging",
                   "cms",
@@ -450,7 +450,7 @@
                     "open_issues": 62,
                     "owner": "egoist",
                     "repo": "eme",
-                    "stars": 2052,
+                    "stars": 2050,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -478,7 +478,7 @@
                     "open_issues": 174,
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18241,
+                    "stars": 18247,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -508,7 +508,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-09T12:40:53Z",
-                "open_issues": 1323,
+                "open_issues": 1324,
                 "owner": "ipython",
                 "repo": "ipython",
                 "stars": 16791,
@@ -540,7 +540,7 @@
                 "open_issues": 15,
                 "owner": "jrjohansson",
                 "repo": "scientific-python-lectures",
-                "stars": 3661,
+                "stars": 3660,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -801,7 +801,7 @@
                     "open_issues": 928,
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72433,
+                    "stars": 72436,
                     "topics": [
                       "presentations",
                       "slides",
@@ -1049,7 +1049,7 @@
                     "open_issues": 20,
                     "owner": "amix",
                     "repo": "vimrc",
-                    "stars": 31798,
+                    "stars": 31799,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1084,10 +1084,10 @@
                 "language": "Vim Script",
                 "license": "Vim",
                 "last_commit": "2026-10-17T02:34:00Z",
-                "open_issues": 1703,
+                "open_issues": 1719,
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 41147,
+                "stars": 41143,
                 "topics": [
                   "c",
                   "cross-platform",
@@ -1381,11 +1381,11 @@
                 "id": 75189212,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-15T06:51:52Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-18T03:30:14Z",
+                "open_issues": 0,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 30283,
+                "stars": 30311,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1613,7 +1613,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T03:42:55.667Z",
+    "last_updated": "2026-10-18T03:49:03.830Z",
     "original_repository_info": {
       "archived": false,
       "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]",
