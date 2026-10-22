@@ -42,7 +42,7 @@
                 "open_issues": 280,
                 "owner": "readthedocs",
                 "repo": "sphinx_rtd_theme",
-                "stars": 5097,
+                "stars": 5099,
                 "topics": [
                   "sphinx-doc",
                   "sphinx-theme"
@@ -162,7 +162,7 @@
                 "open_issues": 25,
                 "owner": "btford",
                 "repo": "write-good",
-                "stars": 5101,
+                "stars": 5102,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -278,11 +278,11 @@
                 "id": 9852918,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T03:57:33Z",
-                "open_issues": 200,
+                "last_commit": "2026-10-21T23:27:50Z",
+                "open_issues": 223,
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55579,
+                "stars": 55584,
                 "topics": [
                   "blogging",
                   "cms",
@@ -478,7 +478,7 @@
                     "open_issues": 174,
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18256,
+                    "stars": 18261,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -507,11 +507,11 @@
                 "id": 658518,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-20T15:23:04Z",
-                "open_issues": 1327,
+                "last_commit": "2026-10-21T12:49:11Z",
+                "open_issues": 1308,
                 "owner": "ipython",
                 "repo": "ipython",
-                "stars": 16792,
+                "stars": 16793,
                 "topics": [
                   "closember",
                   "data-science",
@@ -540,7 +540,7 @@
                 "open_issues": 15,
                 "owner": "jrjohansson",
                 "repo": "scientific-python-lectures",
-                "stars": 3658,
+                "stars": 3659,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1049,7 +1049,7 @@
                     "open_issues": 20,
                     "owner": "amix",
                     "repo": "vimrc",
-                    "stars": 31798,
+                    "stars": 31802,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1070,7 +1070,7 @@
                     "open_issues": 204,
                     "owner": "VundleVim",
                     "repo": "Vundle.vim",
-                    "stars": 23913,
+                    "stars": 23910,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1083,11 +1083,11 @@
                 "id": 40997482,
                 "language": "Vim Script",
                 "license": "Vim",
-                "last_commit": "2026-10-20T15:25:48Z",
-                "open_issues": 1705,
+                "last_commit": "2026-10-21T16:05:22Z",
+                "open_issues": 1697,
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 41147,
+                "stars": 41155,
                 "topics": [
                   "c",
                   "cross-platform",
@@ -1382,10 +1382,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-21T02:37:51Z",
-                "open_issues": 0,
+                "open_issues": 4,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 30392,
+                "stars": 30413,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1423,7 +1423,7 @@
                 "open_issues": 1,
                 "owner": "jbmouret",
                 "repo": "matplotlib_for_papers",
-                "stars": 2206,
+                "stars": 2207,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1510,7 +1510,7 @@
                 "open_issues": 3,
                 "owner": "holoviz",
                 "repo": "colorcet",
-                "stars": 750,
+                "stars": 751,
                 "topics": [
                   "bokeh",
                   "colorcet",
@@ -1613,7 +1613,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T03:59:18.070Z",
+    "last_updated": "2026-10-22T04:00:01.140Z",
     "original_repository_info": {
       "archived": false,
       "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]",
@@ -1625,7 +1625,7 @@
       "open_issues": 28,
       "owner": "emptymalei",
       "repo": "awesome-research",
-      "stars": 2792,
+      "stars": 2795,
       "topics": [
         "awesome",
         "awesome-list",
