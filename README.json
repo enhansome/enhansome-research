@@ -42,7 +42,7 @@
                 "open_issues": 280,
                 "owner": "readthedocs",
                 "repo": "sphinx_rtd_theme",
-                "stars": 5102,
+                "stars": 5103,
                 "topics": [
                   "sphinx-doc",
                   "sphinx-theme"
@@ -162,7 +162,7 @@
                 "open_issues": 25,
                 "owner": "btford",
                 "repo": "write-good",
-                "stars": 5103,
+                "stars": 5102,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -183,7 +183,7 @@
                 "open_issues": 236,
                 "owner": "amperser",
                 "repo": "proselint",
-                "stars": 4585,
+                "stars": 4586,
                 "topics": [
                   "advice",
                   "knowledge",
@@ -278,11 +278,11 @@
                 "id": 9852918,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T15:03:40Z",
-                "open_issues": 243,
+                "last_commit": "2026-10-25T02:37:09Z",
+                "open_issues": 245,
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55597,
+                "stars": 55599,
                 "topics": [
                   "blogging",
                   "cms",
@@ -420,10 +420,10 @@
                     "language": "Python",
                     "license": "GPL-2.0",
                     "last_commit": "2026-09-24T11:18:47Z",
-                    "open_issues": 81,
+                    "open_issues": 82,
                     "owner": "retext-project",
                     "repo": "retext",
-                    "stars": 2065,
+                    "stars": 2064,
                     "topics": [
                       "editor",
                       "markdown",
@@ -478,7 +478,7 @@
                     "open_issues": 174,
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18265,
+                    "stars": 18272,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -511,7 +511,7 @@
                 "open_issues": 1285,
                 "owner": "ipython",
                 "repo": "ipython",
-                "stars": 16795,
+                "stars": 16797,
                 "topics": [
                   "closember",
                   "data-science",
@@ -540,7 +540,7 @@
                 "open_issues": 15,
                 "owner": "jrjohansson",
                 "repo": "scientific-python-lectures",
-                "stars": 3659,
+                "stars": 3660,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -568,7 +568,7 @@
                 "open_issues": 131,
                 "owner": "fex-team",
                 "repo": "kityminder",
-                "stars": 4868,
+                "stars": 4867,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -660,7 +660,7 @@
                 "open_issues": 1,
                 "owner": "hizzgdev",
                 "repo": "jsmind",
-                "stars": 3793,
+                "stars": 3794,
                 "topics": [
                   "bsd",
                   "canvas",
@@ -801,7 +801,7 @@
                     "open_issues": 931,
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72464,
+                    "stars": 72471,
                     "topics": [
                       "presentations",
                       "slides",
@@ -826,7 +826,7 @@
                     "open_issues": 61,
                     "owner": "impress",
                     "repo": "impress.js",
-                    "stars": 38157,
+                    "stars": 38160,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1049,7 +1049,7 @@
                     "open_issues": 20,
                     "owner": "amix",
                     "repo": "vimrc",
-                    "stars": 31801,
+                    "stars": 31800,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1070,7 +1070,7 @@
                     "open_issues": 204,
                     "owner": "VundleVim",
                     "repo": "Vundle.vim",
-                    "stars": 23910,
+                    "stars": 23909,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1083,11 +1083,11 @@
                 "id": 40997482,
                 "language": "Vim Script",
                 "license": "Vim",
-                "last_commit": "2026-10-24T02:34:08Z",
-                "open_issues": 1709,
+                "last_commit": "2026-10-24T16:34:31Z",
+                "open_issues": 1712,
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 41159,
+                "stars": 41162,
                 "topics": [
                   "c",
                   "cross-platform",
@@ -1176,7 +1176,7 @@
                 "open_issues": 0,
                 "owner": "shmlkv",
                 "repo": "dna-claude-analysis",
-                "stars": 58,
+                "stars": 59,
                 "topics": [
                   "analysis",
                   "claude",
@@ -1385,7 +1385,7 @@
                 "open_issues": 1,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 30438,
+                "stars": 30452,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1613,7 +1613,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T03:57:20.419Z",
+    "last_updated": "2026-10-25T03:56:55.961Z",
     "original_repository_info": {
       "archived": false,
       "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]",
