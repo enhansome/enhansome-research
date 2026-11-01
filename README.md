@@ -1,6 +1,6 @@
 # Awesome Research Tools with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 527,593 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 528,103 | 🐛 105 | 📅 2026-09-02
 
 A list of tools for research. Also available on <https://tools.kausalflow.com/tools/>.
 
@@ -122,7 +122,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 
 ## Cloud Services
 
-*For self-hosted services, check out [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) ⭐ 332,200 | 🐛 0 | 📅 2026-10-29 on GitHub.*
+*For self-hosted services, check out [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) ⭐ 332,488 | 🐛 0 | 📅 2026-10-31 on GitHub.*
 
 ### Math and Programming Online
 
@@ -235,7 +235,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 > Just use [Visual Studio Code](https://code.visualstudio.com/).
 
 * [write good](https://github.com/btford/write-good) ⭐ 5,107 | 🐛 25 | 🌐 JavaScript | 📅 2025-03-10: Naive JavaScript linter for English prose.
-* [proselint](https://github.com/amperser/proselint) ⭐ 4,590 | 🐛 236 | 🌐 JavaScript | 📅 2026-09-04: A linter for English prose using advice from *Garner's Modern American Usage* and more.
+* [proselint](https://github.com/amperser/proselint) ⭐ 4,591 | 🐛 236 | 🌐 JavaScript | 📅 2026-09-04: A linter for English prose using advice from *Garner's Modern American Usage* and more.
 * [Rousseau](https://github.com/GitbookIO/rousseau) ⭐ 188 | 🐛 4 | 🌐 JavaScript | 📅 2022-03-09: Lightweight proofreader written in JavaScript.
 * [artbollocks-mode](https://github.com/sachac/artbollocks-mode) ⭐ 78 | 🐛 3 | 🌐 Emacs Lisp | 📅 2025-12-11: Emacs minor mode for avoiding cliches and bad grammar when writing about art (or other topics).
 * [textlint-rule-rousseau](https://github.com/azu/textlint-rule-rousseau) ⭐ 9 | 🐛 4 | 🌐 JavaScript | 📅 2026-06-23: A textlint rule to check English sentences using Rousseau.
@@ -266,7 +266,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 
 > These programs are running on the server and can be [hosted using these services](#hosting).
 
-* [Ghost](https://github.com/tryghost/Ghost) ⭐ 55,643 | 🐛 196 | 🌐 TypeScript | 📅 2026-10-31 (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
+* [Ghost](https://github.com/tryghost/Ghost) ⭐ 55,648 | 🐛 199 | 🌐 TypeScript | 📅 2026-11-01 (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
 * [Pico](https://github.com/picocms/Pico) ⭐ 3,903 | 🐛 19 | 🌐 PHP | 📅 2026-07-07 (`PHP`): Lightweight cms, open source, no database.
 * [Dropplets](https://github.com/circa75/dropplets) ⭐ 1,609 | 🐛 6 | 🌐 PHP | 📅 2023-02-20 (`PHP`): Open source, simple, and elegant blog system; write in Markdown.
 * [GitBook](https://www.gitbook.com/) (`Cloud`): write in Markdown and collaborate with the team. GitBook integrates with GitHub so no content will be lost.
@@ -356,7 +356,7 @@ Notebook softwares that you can write in Markdown:
 
 Use IPython Notebook to help with your research. IPython Notebook can be previewed on GitHub directly. Here are some examples of how IPython notebook can be used.
 
-* [More](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) ⭐ 16,796 | 🐛 1,270 | 🌐 Python | 📅 2026-10-30: For more IPython notebook on GitHub please read this enormous list.
+* [More](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) ⭐ 16,797 | 🐛 1,272 | 🌐 Python | 📅 2026-11-01: For more IPython notebook on GitHub please read this enormous list.
 * [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) ⭐ 3,661 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-06-02
 * [Reproduced Papers](http://reproduced-papers.github.io/)
 
@@ -371,7 +371,7 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 **Online**
 
 * [KityMinder By Baidu](https://github.com/fex-team/kityminder) ⭐ 4,865 | 🐛 131 | 🌐 JavaScript | 📅 2019-08-10 : Chinese Interface
-* [my-mind](http://my-mind.github.io/): repo [here](https://github.com/ondras/my-mind) ⭐ 3,369 | 🐛 59 | 🌐 TypeScript | 📅 2026-10-27.
+* [my-mind](http://my-mind.github.io/): repo [here](https://github.com/ondras/my-mind) ⭐ 3,368 | 🐛 59 | 🌐 TypeScript | 📅 2026-10-27.
 * [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps) ⭐ 2,865 | 🐛 34 | 🌐 JavaScript | 📅 2023-02-05
 * [beautiful Mind](http://beautifulmind.io/): repo [here](https://github.com/ierror/BeautifulMind.io) ⭐ 118 | 🐛 4 | 🌐 Python | 📅 2015-02-27
 * [Mindmup](https://www.mindmup.com/): repo [here](https://github.com/mindmup)
@@ -433,7 +433,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 > Use [colors](https://github.com/mrmrs/colors) ⭐ 9,431 | 🐛 16 | 🌐 CSS | 📅 2023-07-20 to make your HTML feels better.
 
 * [Reveal.js](https://github.com/hakimel/reveal.js) ⭐ 72,497 | 🐛 931 | 🌐 JavaScript | 📅 2026-09-30
-* [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki) ⭐ 38,150 | 🐛 61 | 🌐 JavaScript | 📅 2026-07-23.
+* [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki) ⭐ 38,151 | 🐛 61 | 🌐 JavaScript | 📅 2026-07-23.
 * [Deck.js](https://github.com/imakewebthings/deck.js) ⭐ 5,415 | 🐛 42 | 🌐 JavaScript | 📅 2019-01-28
 * [Shower](https://github.com/shower/shower) ⭐ 4,878 | 🐛 40 | 🌐 JavaScript | 📅 2026-10-26
 * [Beckpoke.js](https://github.com/bespokejs/bespoke) ⭐ 4,793 | 🐛 6 | 🌐 JavaScript | 📅 2020-09-08
@@ -478,7 +478,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 ### Code Editors
 
-* [vim](https://github.com/vim/vim) ⭐ 41,179 | 🐛 1,713 | 🌐 Vim Script | 📅 2026-10-31(`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
+* [vim](https://github.com/vim/vim) ⭐ 41,182 | 🐛 1,748 | 🌐 Vim Script | 📅 2026-10-31(`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
   * [vimrc from amix](https://github.com/amix/vimrc) ⭐ 31,801 | 🐛 20 | 🌐 Vim Script | 📅 2024-10-06: "The ultimate Vim configuration: vimrc"
   * [Vundle](https://github.com/VundleVim/Vundle.vim) ⭐ 23,903 | 🐛 204 | 🌐 Vim Script | 📅 2024-07-30: the vim plugin manager
 * [Visual Studio Code, aka VS Code](https://code.visualstudio.com/)(`Free`,`Cross-platform`,`Plugins`): same technology as atom but faster than atom, and Microsoft made.
@@ -500,7 +500,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 ### Scientific Computing
 
-* [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2026-03-04: Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories and generating terminal-style HTML visualization for scientific research.
+* [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2026-03-04: Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories and generating terminal-style HTML visualization for scientific research.
 * [Python](https://www.python.org/)
   * [scipy](https://www.scipy.org/): scientific computing made easy
   * [SnakeViz](https://jiffyclub.github.io/snakeviz/): A nice tool for python debugging and performance improvement.
@@ -567,7 +567,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 ### Tips for Researchers
 
-* Check the [Academic Resources and Grey Literature List](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) ⭐ 30,586 | 🐛 5 | 📅 2026-10-30 of the [Awesome Open-Source Intelligence List](https://github.com/jivoi/awesome-osint) ⭐ 30,586 | 🐛 5 | 📅 2026-10-30 for search engines to search for papers.
+* Check the [Academic Resources and Grey Literature List](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) ⭐ 30,614 | 🐛 1 | 📅 2026-10-31 of the [Awesome Open-Source Intelligence List](https://github.com/jivoi/awesome-osint) ⭐ 30,614 | 🐛 1 | 📅 2026-10-31 for search engines to search for papers.
 * [Ten Simple Rules by PLoS One](http://collections.plos.org/ten-simple-rules): Series of quick "Ten Simple Rules" articles for research scientists to manage challenges in their careers. Number of articles are life-science specific, but rest the of articles are general enough for any researcher.
 
 ## Pacifier
@@ -742,4 +742,4 @@ This is a CC BY-SA licensed project. Use the source! Keep the source open!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

@@ -183,7 +183,7 @@
                 "open_issues": 236,
                 "owner": "amperser",
                 "repo": "proselint",
-                "stars": 4590,
+                "stars": 4591,
                 "topics": [
                   "advice",
                   "knowledge",
@@ -278,11 +278,11 @@
                 "id": 9852918,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-31T04:21:45Z",
-                "open_issues": 196,
+                "last_commit": "2026-11-01T04:23:32Z",
+                "open_issues": 199,
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55643,
+                "stars": 55648,
                 "topics": [
                   "blogging",
                   "cms",
@@ -507,11 +507,11 @@
                 "id": 658518,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-30T08:32:50Z",
-                "open_issues": 1270,
+                "last_commit": "2026-11-01T04:04:00Z",
+                "open_issues": 1272,
                 "owner": "ipython",
                 "repo": "ipython",
-                "stars": 16796,
+                "stars": 16797,
                 "topics": [
                   "closember",
                   "data-science",
@@ -589,7 +589,7 @@
                 "open_issues": 59,
                 "owner": "ondras",
                 "repo": "my-mind",
-                "stars": 3369,
+                "stars": 3368,
                 "topics": [
                   "hacktoberfest",
                   "mindmap",
@@ -826,7 +826,7 @@
                     "open_issues": 61,
                     "owner": "impress",
                     "repo": "impress.js",
-                    "stars": 38150,
+                    "stars": 38151,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1083,11 +1083,11 @@
                 "id": 40997482,
                 "language": "Vim Script",
                 "license": "Vim",
-                "last_commit": "2026-10-31T02:34:45Z",
-                "open_issues": 1713,
+                "last_commit": "2026-10-31T19:20:12Z",
+                "open_issues": 1748,
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 41179,
+                "stars": 41182,
                 "topics": [
                   "c",
                   "cross-platform",
@@ -1176,7 +1176,7 @@
                 "open_issues": 0,
                 "owner": "shmlkv",
                 "repo": "dna-claude-analysis",
-                "stars": 58,
+                "stars": 59,
                 "topics": [
                   "analysis",
                   "claude",
@@ -1381,11 +1381,11 @@
                 "id": 75189212,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T09:38:11Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-31T14:39:10Z",
+                "open_issues": 1,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 30586,
+                "stars": 30614,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1613,7 +1613,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T04:49:52.916Z",
+    "last_updated": "2026-11-01T05:14:28.632Z",
     "original_repository_info": {
       "archived": false,
       "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]",
