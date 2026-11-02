@@ -183,7 +183,7 @@
                 "open_issues": 236,
                 "owner": "amperser",
                 "repo": "proselint",
-                "stars": 4591,
+                "stars": 4593,
                 "topics": [
                   "advice",
                   "knowledge",
@@ -278,11 +278,11 @@
                 "id": 9852918,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T04:23:32Z",
-                "open_issues": 199,
+                "last_commit": "2026-11-01T22:59:17Z",
+                "open_issues": 201,
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55648,
+                "stars": 55655,
                 "topics": [
                   "blogging",
                   "cms",
@@ -478,7 +478,7 @@
                     "open_issues": 175,
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18295,
+                    "stars": 18299,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -507,7 +507,7 @@
                 "id": 658518,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-01T04:04:00Z",
+                "last_commit": "2026-11-01T15:04:38Z",
                 "open_issues": 1272,
                 "owner": "ipython",
                 "repo": "ipython",
@@ -660,7 +660,7 @@
                 "open_issues": 1,
                 "owner": "hizzgdev",
                 "repo": "jsmind",
-                "stars": 3792,
+                "stars": 3791,
                 "topics": [
                   "bsd",
                   "canvas",
@@ -801,7 +801,7 @@
                     "open_issues": 931,
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72497,
+                    "stars": 72503,
                     "topics": [
                       "presentations",
                       "slides",
@@ -889,7 +889,7 @@
                     "open_issues": 6,
                     "owner": "bespokejs",
                     "repo": "bespoke",
-                    "stars": 4793,
+                    "stars": 4792,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1049,7 +1049,7 @@
                     "open_issues": 20,
                     "owner": "amix",
                     "repo": "vimrc",
-                    "stars": 31801,
+                    "stars": 31800,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1070,7 +1070,7 @@
                     "open_issues": 204,
                     "owner": "VundleVim",
                     "repo": "Vundle.vim",
-                    "stars": 23903,
+                    "stars": 23902,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1083,11 +1083,11 @@
                 "id": 40997482,
                 "language": "Vim Script",
                 "license": "Vim",
-                "last_commit": "2026-10-31T19:20:12Z",
-                "open_issues": 1748,
+                "last_commit": "2026-11-01T17:32:45Z",
+                "open_issues": 1731,
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 41182,
+                "stars": 41180,
                 "topics": [
                   "c",
                   "cross-platform",
@@ -1382,10 +1382,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T14:39:10Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 30614,
+                "stars": 30638,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1510,7 +1510,7 @@
                 "open_issues": 3,
                 "owner": "holoviz",
                 "repo": "colorcet",
-                "stars": 751,
+                "stars": 752,
                 "topics": [
                   "bokeh",
                   "colorcet",
@@ -1613,7 +1613,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T05:14:28.632Z",
+    "last_updated": "2026-11-02T05:14:15.207Z",
     "original_repository_info": {
       "archived": false,
       "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]",
@@ -1625,7 +1625,7 @@
       "open_issues": 31,
       "owner": "emptymalei",
       "repo": "awesome-research",
-      "stars": 2804,
+      "stars": 2806,
       "topics": [
         "awesome",
         "awesome-list",
