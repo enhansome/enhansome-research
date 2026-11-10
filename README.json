@@ -278,11 +278,11 @@
                 "id": 9852918,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T03:55:49Z",
-                "open_issues": 228,
+                "last_commit": "2026-11-10T04:33:42Z",
+                "open_issues": 230,
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55715,
+                "stars": 55720,
                 "topics": [
                   "blogging",
                   "cms",
@@ -423,7 +423,7 @@
                     "open_issues": 80,
                     "owner": "retext-project",
                     "repo": "retext",
-                    "stars": 2064,
+                    "stars": 2063,
                     "topics": [
                       "editor",
                       "markdown",
@@ -450,7 +450,7 @@
                     "open_issues": 63,
                     "owner": "egoist",
                     "repo": "eme",
-                    "stars": 2051,
+                    "stars": 2052,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -478,7 +478,7 @@
                     "open_issues": 177,
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18316,
+                    "stars": 18322,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -507,11 +507,11 @@
                 "id": 658518,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-02T09:19:33Z",
-                "open_issues": 1279,
+                "last_commit": "2026-11-09T12:46:14Z",
+                "open_issues": 1280,
                 "owner": "ipython",
                 "repo": "ipython",
-                "stars": 16801,
+                "stars": 16802,
                 "topics": [
                   "closember",
                   "data-science",
@@ -589,7 +589,7 @@
                 "open_issues": 59,
                 "owner": "ondras",
                 "repo": "my-mind",
-                "stars": 3370,
+                "stars": 3369,
                 "topics": [
                   "hacktoberfest",
                   "mindmap",
@@ -729,7 +729,7 @@
                 "open_issues": 12,
                 "owner": "tantaman",
                 "repo": "strut",
-                "stars": 1891,
+                "stars": 1892,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -798,10 +798,10 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-09-30T19:38:13Z",
-                    "open_issues": 933,
+                    "open_issues": 931,
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72539,
+                    "stars": 72548,
                     "topics": [
                       "presentations",
                       "slides",
@@ -826,7 +826,7 @@
                     "open_issues": 61,
                     "owner": "impress",
                     "repo": "impress.js",
-                    "stars": 38154,
+                    "stars": 38151,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -864,7 +864,7 @@
                     "id": 1035184,
                     "language": "JavaScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-02T19:06:03Z",
+                    "last_commit": "2026-11-09T19:06:35Z",
                     "open_issues": 41,
                     "owner": "shower",
                     "repo": "shower",
@@ -1049,7 +1049,7 @@
                     "open_issues": 19,
                     "owner": "amix",
                     "repo": "vimrc",
-                    "stars": 31796,
+                    "stars": 31794,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1070,7 +1070,7 @@
                     "open_issues": 204,
                     "owner": "VundleVim",
                     "repo": "Vundle.vim",
-                    "stars": 23898,
+                    "stars": 23899,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1083,11 +1083,11 @@
                 "id": 40997482,
                 "language": "Vim Script",
                 "license": "Vim",
-                "last_commit": "2026-11-08T22:23:28Z",
+                "last_commit": "2026-11-09T21:25:16Z",
                 "open_issues": 1775,
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 41193,
+                "stars": 41199,
                 "topics": [
                   "c",
                   "cross-platform",
@@ -1382,10 +1382,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-08T20:58:07Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 30918,
+                "stars": 30948,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1423,7 +1423,7 @@
                 "open_issues": 1,
                 "owner": "jbmouret",
                 "repo": "matplotlib_for_papers",
-                "stars": 2206,
+                "stars": 2204,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1613,7 +1613,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T05:29:54.563Z",
+    "last_updated": "2026-11-10T06:41:11.723Z",
     "original_repository_info": {
       "archived": false,
       "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]",
@@ -1622,10 +1622,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-05-19T11:43:56Z",
-      "open_issues": 32,
+      "open_issues": 35,
       "owner": "emptymalei",
       "repo": "awesome-research",
-      "stars": 2814,
+      "stars": 2816,
       "topics": [
         "awesome",
         "awesome-list",
