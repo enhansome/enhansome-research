@@ -1,8 +1,10 @@
 # Awesome Research Tools with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 534,975 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 535,500 | 🐛 103 | 📅 2026-09-02
 
-A list of tools for research. Also available on <https://tools.kausalflow.com/tools/>.
+A list of tools for research. Also available on <https://tools.kausalflow.com/tools/>, with a page for each tool, open [JSON data](https://tools.kausalflow.com/tools.json), [RSS](https://tools.kausalflow.com/index.xml), [llms.txt](https://tools.kausalflow.com/llms.txt) and [AI access](https://tools.kausalflow.com/ai/).
+
+Want to add a tool? See [CONTRIBUTING.md](CONTRIBUTING.md), or use the [submission form](https://tools.kausalflow.com/submit/).
 
 ## TOC
 
@@ -122,7 +124,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 
 ## Cloud Services
 
-*For self-hosted services, check out [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) ⭐ 335,889 | 🐛 0 | 📅 2026-11-07 on GitHub.*
+*For self-hosted services, check out [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) ⭐ 336,235 | 🐛 0 | 📅 2026-11-07 on GitHub.*
 
 ### Math and Programming Online
 
@@ -154,6 +156,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 * [graph.tk](http://graph.tk/): Online plotting with rich features.
 * [Wolfram Alpha](http://www.wolframalpha.com/): Make graphs for functions, from your data and even more.
 * [SankeyDiagram.net](https://sankeydiagram.net/): Web-based tool for creating & sharing Sankey Diagrams from data (open-source)
+* [Scientific Figure](https://scientificfigure.com/): AI tool that draws scientific illustrations, graphical abstracts, data plots, and conference posters from a text prompt, sketch, or PDF; exports SVG and PPTX at journal column widths.
 
 ### Datasets
 
@@ -190,6 +193,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 * [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/web/pages/) (`Lookup`)
 * [Institute for Quantitative Social Science (IQSS)](http://library.harvard.edu/gdc) (`Lookup`)
 * [Voidly Censorship Index](https://voidly.ai/data) (`Lookup`, `API`): Open dataset of global internet censorship — 19.6M live OONI samples, 1.6M historical records across 119+ countries, 5,356 citable incidents with 16,822 evidence items. CC BY 4.0, REST/MCP API, [HuggingFace parquet exports](https://huggingface.co/datasets/emperor-mew/global-censorship-index).
+* [twtData X Trends Archive](https://twtdata.com/twitter-trends/) (`Lookup`): X (Twitter) trending topics by country and city, with a page for each past day; the largest countries are recorded hourly.
 
 ### Colors
 
@@ -242,6 +246,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 * [Hemingway App](https://hemingwayapp.com/): Highlights complex sentences, point out passive voice, and suggests alternative words.
 * [`cut_the_crap.py`](https://jugad2.blogspot.com/2015/07/cut-crap-absolutely-essential-tool-for.html): Simple Python script to flag redundant words and gives alternative suggestions.
 * [De-Jargonizer](http://scienceandpublic.com/): Paste your article or upload file to analyze the amount of jargon in your writing.
+* [Articlo](https://getarticlo.com/): Prepares existing Word manuscripts for a target journal with an editable document, change summary, and author checklist. Free readiness check; paid manuscript preparation.
 
 ### Hosting
 
@@ -266,7 +271,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 
 > These programs are running on the server and can be [hosted using these services](#hosting).
 
-* [Ghost](https://github.com/tryghost/Ghost) ⭐ 55,755 | 🐛 240 | 🌐 TypeScript | 📅 2026-11-11 (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
+* [Ghost](https://github.com/tryghost/Ghost) ⭐ 55,787 | 🐛 241 | 🌐 TypeScript | 📅 2026-11-12 (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
 * [Pico](https://github.com/picocms/Pico) ⭐ 3,903 | 🐛 19 | 🌐 PHP | 📅 2026-07-07 (`PHP`): Lightweight cms, open source, no database.
 * [Dropplets](https://github.com/circa75/dropplets) ⭐ 1,610 | 🐛 6 | 🌐 PHP | 📅 2023-02-20 (`PHP`): Open source, simple, and elegant blog system; write in Markdown.
 * [GitBook](https://www.gitbook.com/) (`Cloud`): write in Markdown and collaborate with the team. GitBook integrates with GitHub so no content will be lost.
@@ -295,6 +300,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 
 * [Findings](https://findingsapp.com): Your research assistant & lab notebook, all in one app.
 * [Learnly AI](https://learnlyai.co.uk/): AI-powered academic assistant for students, featuring smart note-taking from lectures, PDFs and videos, essay writing with literature review, and AI presentation generator.
+* [Glasp](https://glasp.co): Web and YouTube highlighter with AI summaries and notes, plus Kindle highlights import. Browser extensions, iOS and Android apps, and an MCP server; export to Notion, Obsidian and Zotero.
 
 ### Editors
 
@@ -303,8 +309,9 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 
 #### Markdown
 
-* [ReText](https://github.com/retext-project/retext) ⭐ 2,063 | 🐛 80 | 🌐 Python | 📅 2026-11-07 (`Mac`,`Win`,`Linux`): ReText one of the best, even on Linux. It also supports reStructuredText input.
+* [ReText](https://github.com/retext-project/retext) ⭐ 2,064 | 🐛 80 | 🌐 Python | 📅 2026-11-07 (`Mac`,`Win`,`Linux`): ReText one of the best, even on Linux. It also supports reStructuredText input.
 * [eme](https://github.com/egoist/eme) ⭐ 2,053 | 🐛 63 | 🌐 JavaScript | 📅 2022-12-10 (`Win`,`Mac`,`Linux`): Math support.
+* [markon](https://metaory.github.io/markon/) (`Cloud`, `Local PWA`): Minimal distraction-free live Markdown editor.
 * [Hackmd.io](https://hackmd.io) (`Cloud`): Basically ships with everything you expect from the most complete online markdown editor.
 * [StackEdit](https://stackedit.io/)(`Cloud`): StackEdit is a Markdown editor with many integrated services such as math (MathJax), Google Drive, Dropbox, and GitHub.
 * [CMD markdown](https://www.zybuluo.com/mdeditor)(`Cloud`): CMD is a Markdown editor with math (MathJax) support. What is special is that it keeps edit history. (Chinese UI.)
@@ -337,16 +344,18 @@ Notebook softwares that you can write in Markdown:
 * [Papeeria](https://www.papeeria.com)(`Cloud`): Just another online LaTeX and Markdown with plot compiler and collaborations.
 * [JaxEdit](http://jaxedit.com/)(`Cloud`): JaxEdit doesn't provide full LaTeX support but is good enough for simple LaTeX documents and slides.
 * [SpicyChai LaTeX](https://latex.spicychai.com/)(`Cloud`): Online LaTeX editor with AI-powered template population, real-time PDF preview, and pre-built templates for resumes, papers, and more. Free anonymous renders without signup.
+* [Manulyx](https://manulyx.com/)(`Cloud`): Online LaTeX editor for writing and revising papers with co-authors: real-time co-editing, track changes, publisher templates, submission stages, response-to-reviewers letters and marked manuscripts. Free plan available.
 
 **You can also host one using your own machine.**
 
-* [Overleaf Source Code](https://github.com/overleaf/overleaf) ⭐ 18,329 | 🐛 178 | 🌐 JavaScript | 📅 2026-09-17: Overleaf open sourced their codes. This is a great move I would say.
+* [Overleaf Source Code](https://github.com/overleaf/overleaf) ⭐ 18,336 | 🐛 177 | 🌐 JavaScript | 📅 2026-09-17: Overleaf open sourced their codes. This is a great move I would say.
 * [TeXStudio](http://www.texstudio.org) - Cross-platform LaTeX editor that stems from TeXMaker.
 * [WinEdt](http://www.winedt.com) - The LaTeX editor many people swear by.
 * [TeXnicCenter](http://www.texniccenter.org) - A quite old but free and decent editor for LaTeX.
 * [LyX](https://www.lyx.org) - Cross-platform WYSIWYM editor that uses LaTeX behind the scenes to render documents.
 * [TeXshop](http://pages.uoregon.edu/koch/texshop/) - No-nonsense editor for LaTeX documents which is included in MacTeX.
 * [TeXWorks](https://www.tug.org/texworks/) - No-nonsense editor for LaTeX code, modeled after TeXShop, but this one is cross-platform.
+* [Oleafly](https://oleafly.com) - Open-source desktop editor for LaTeX, Typst and Markdown with a built-in LaTeX engine, live PDF preview and Zotero citations. Runs offline on macOS, Windows and Linux.
 
 **You can also add notes directly to academic papers**
 
@@ -356,7 +365,7 @@ Notebook softwares that you can write in Markdown:
 
 Use IPython Notebook to help with your research. IPython Notebook can be previewed on GitHub directly. Here are some examples of how IPython notebook can be used.
 
-* [More](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) ⭐ 16,803 | 🐛 1,279 | 🌐 Python | 📅 2026-11-09: For more IPython notebook on GitHub please read this enormous list.
+* [More](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) ⭐ 16,804 | 🐛 1,280 | 🌐 Python | 📅 2026-11-09: For more IPython notebook on GitHub please read this enormous list.
 * [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) ⭐ 3,661 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-06-02
 * [Reproduced Papers](http://reproduced-papers.github.io/)
 
@@ -370,7 +379,7 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 
 **Online**
 
-* [KityMinder By Baidu](https://github.com/fex-team/kityminder) ⭐ 4,863 | 🐛 131 | 🌐 JavaScript | 📅 2019-08-10 : Chinese Interface
+* [KityMinder By Baidu](https://github.com/fex-team/kityminder) ⭐ 4,862 | 🐛 131 | 🌐 JavaScript | 📅 2019-08-10 : Chinese Interface
 * [my-mind](http://my-mind.github.io/): repo [here](https://github.com/ondras/my-mind) ⭐ 3,369 | 🐛 59 | 🌐 TypeScript | 📅 2026-10-27.
 * [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps) ⭐ 2,865 | 🐛 34 | 🌐 JavaScript | 📅 2023-02-05
 * [beautiful Mind](http://beautifulmind.io/): repo [here](https://github.com/ierror/BeautifulMind.io) ⭐ 118 | 🐛 4 | 🌐 Python | 📅 2015-02-27
@@ -378,7 +387,7 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 
 **MINDMAP HTML**
 
-* [jsmind](https://github.com/hizzgdev/jsmind) ⭐ 3,794 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-18
+* [jsmind](https://github.com/hizzgdev/jsmind) ⭐ 3,793 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-18
 * [mindmaps](https://github.com/drichard/mindmaps) ⭐ 2,865 | 🐛 34 | 🌐 JavaScript | 📅 2023-02-05
 * [gojs](http://gojs.net/latest/samples/mindMap.html)
 * [jsmind](http://sourceforge.net/projects/jsmind/)
@@ -430,13 +439,13 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 #### HTML+CSS+JS
 
-> Use [colors](https://github.com/mrmrs/colors) ⭐ 9,435 | 🐛 16 | 🌐 CSS | 📅 2023-07-20 to make your HTML feels better.
+> Use [colors](https://github.com/mrmrs/colors) ⭐ 9,436 | 🐛 16 | 🌐 CSS | 📅 2023-07-20 to make your HTML feels better.
 
-* [Reveal.js](https://github.com/hakimel/reveal.js) ⭐ 72,553 | 🐛 931 | 🌐 JavaScript | 📅 2026-09-30
-* [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki) ⭐ 38,152 | 🐛 61 | 🌐 JavaScript | 📅 2026-07-23.
-* [Deck.js](https://github.com/imakewebthings/deck.js) ⭐ 5,415 | 🐛 42 | 🌐 JavaScript | 📅 2019-01-28
+* [Reveal.js](https://github.com/hakimel/reveal.js) ⭐ 72,559 | 🐛 932 | 🌐 JavaScript | 📅 2026-09-30
+* [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki) ⭐ 38,153 | 🐛 61 | 🌐 JavaScript | 📅 2026-07-23.
+* [Deck.js](https://github.com/imakewebthings/deck.js) ⭐ 5,414 | 🐛 42 | 🌐 JavaScript | 📅 2019-01-28
 * [Shower](https://github.com/shower/shower) ⭐ 4,879 | 🐛 41 | 🌐 JavaScript | 📅 2026-11-09
-* [Beckpoke.js](https://github.com/bespokejs/bespoke) ⭐ 4,791 | 🐛 6 | 🌐 JavaScript | 📅 2020-09-08
+* [Beckpoke.js](https://github.com/bespokejs/bespoke) ⭐ 4,792 | 🐛 6 | 🌐 JavaScript | 📅 2020-09-08
 * [CSSS](https://github.com/LeaVerou/CSSS) ⭐ 1,754 | 🐛 26 | 🌐 JavaScript | 📅 2026-09-17
 * [Flowtime.js](https://github.com/marcolago/flowtime.js) ⭐ 1,343 | 🐛 8 | 🌐 JavaScript | 📅 2026-04-02
 * [Scrolldeck](https://github.com/johnpolacek/scrolldeck.js) ⭐ 662 | 🐛 21 | 🌐 JavaScript | 📅 2021-09-09
@@ -478,13 +487,14 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 ### Code Editors
 
-* [vim](https://github.com/vim/vim) ⭐ 41,217 | 🐛 1,774 | 🌐 Vim Script | 📅 2026-11-10(`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
-  * [vimrc from amix](https://github.com/amix/vimrc) ⭐ 31,795 | 🐛 19 | 🌐 Vim Script | 📅 2024-10-06: "The ultimate Vim configuration: vimrc"
-  * [Vundle](https://github.com/VundleVim/Vundle.vim) ⭐ 23,900 | 🐛 204 | 🌐 Vim Script | 📅 2024-07-30: the vim plugin manager
+* [vim](https://github.com/vim/vim) ⭐ 41,314 | 🐛 1,759 | 🌐 Vim Script | 📅 2026-11-11(`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
+  * [vimrc from amix](https://github.com/amix/vimrc) ⭐ 31,794 | 🐛 19 | 🌐 Vim Script | 📅 2024-10-06: "The ultimate Vim configuration: vimrc"
+  * [Vundle](https://github.com/VundleVim/Vundle.vim) ⭐ 23,899 | 🐛 204 | 🌐 Vim Script | 📅 2024-07-30: the vim plugin manager
 * [Visual Studio Code, aka VS Code](https://code.visualstudio.com/)(`Free`,`Cross-platform`,`Plugins`): same technology as atom but faster than atom, and Microsoft made.
 * [Atom](https://atom.io/)(`Free`,`Cross-platform`,`Plugins`): electron based editor with numerous plugins and easy modifications. Cross-platform with settings and plugins synchronized through the [sync-settings](https://atom.io/packages/sync-settings) plugin.
 * [Sublime Text](https://www.sublimetext.com/)(`Free Evaluation`,`Cross-platform`,`Plugins`): cross-platform, fast, and with plugins. Not free but can be freely used forever.
 * [JetBrains](https://www.jetbrains.com/)(`Free for Students`, `Cross-platform`,`Plugins`): beautiful IDE's with many debugging and editing modes integrated.
+* [neovim](https://neovim.io/)(`Free`,`Cross-platform`,`Plugins`): Vim-fork focused on extensibility and usability.
 
 ### Softwares
 
@@ -500,7 +510,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 ### Scientific Computing
 
-* [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) ⭐ 60 | 🐛 0 | 🌐 Python | 📅 2026-03-04: Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories and generating terminal-style HTML visualization for scientific research.
+* [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) ⭐ 61 | 🐛 0 | 🌐 Python | 📅 2026-03-04: Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories and generating terminal-style HTML visualization for scientific research.
 * [Python](https://www.python.org/)
   * [scipy](https://www.scipy.org/): scientific computing made easy
   * [SnakeViz](https://jiffyclub.github.io/snakeviz/): A nice tool for python debugging and performance improvement.
@@ -535,6 +545,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [Connected Papers](https://www.connectedpapers.com/): Visualise connected papers with support for node colours, size and distance from origin to distinguish whether a paper is useful and how related it is.
 * [Uncited](https://uncited.org): Keeping up with the literature.
 * [BGPT MCP API](https://bgpt.pro/mcp/): Search scientific papers with structured full-text experimental data (methods, results, conclusions, sample sizes, limitations, quality scores — 25+ fields per paper). Works via the Model Context Protocol with Claude, Cursor, and other AI tools. Free tier: 50 searches without authentication. [Repository](https://github.com/connerlambden/bgpt-mcp). MCP registry: `io.github.connerlambden/bgpt-mcp`.
+* [JournalCompass](https://journalcompass.com): Free bilingual journal finder: CAS zones, impact factors, review times, APC/OA status and an AI journal matcher.
 
 ### Get Yourself A Citable Code for Anything
 
@@ -556,6 +567,8 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 * [org-ref](https://github.com/jkitchin/org-ref) ⭐ 1,436 | 🐛 6 | 🌐 Emacs Lisp | 📅 2026-10-20: Citations, cross-references, indexes, glossaries, and bibtex utitlies for org-mode in Emacs.
 * [ScholarRef](https://github.com/brodie-neuro/ScholarRef) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-03-10: Convert citation styles (APA 7, Harvard, Vancouver) directly inside Word `.docx` files.
+* [citeguard](https://github.com/wedo911/citeguard) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-26: Checks a `.bib`/`.ris` bibliography (or a single DOI) for cited papers that have been retracted, corrected, or flagged with an expression of concern, via Crossref and the Retraction Watch records it carries. Python library/CLI, MCP server, and GitHub Action; no API key. `pip install citeguard-cli`
+* [Reference Verifier](https://github.com/the-aurora-lab/reference-verifier) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-02: Checks that every reference in a .bib file or LaTeX paper exists in Crossref, OpenAlex, DBLP, arXiv or PubMed, and flags invented papers and wrong DOIs. Open source (MIT).
 * [ReadCube/Papers](https://www.readcube.com/): A all platform app for reference mamagement, note-taking, and more. The former Papers has been rebanded as ReadCube Papers.
 * [Mendeley](https://www.mendeley.com/): A bibliography reference manager with cloud storage and BibTeX support.
 * [Zotero](https://www.zotero.org/): An open source bibliography reference manager with syncing and BibTeX support.
@@ -567,8 +580,9 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 ### Tips for Researchers
 
-* Check the [Academic Resources and Grey Literature List](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) ⭐ 30,978 | 🐛 1 | 📅 2026-11-08 of the [Awesome Open-Source Intelligence List](https://github.com/jivoi/awesome-osint) ⭐ 30,978 | 🐛 1 | 📅 2026-11-08 for search engines to search for papers.
+* Check the [Academic Resources and Grey Literature List](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) ⭐ 31,003 | 🐛 7 | 📅 2026-11-08 of the [Awesome Open-Source Intelligence List](https://github.com/jivoi/awesome-osint) ⭐ 31,003 | 🐛 7 | 📅 2026-11-08 for search engines to search for papers.
 * [Ten Simple Rules by PLoS One](http://collections.plos.org/ten-simple-rules): Series of quick "Ten Simple Rules" articles for research scientists to manage challenges in their careers. Number of articles are life-science specific, but rest the of articles are general enough for any researcher.
+* [ProfScout](https://profscout.com): Finds professors most likely to reply to research cold emails, ranked by reply-fit. Freemium.
 
 ## Pacifier
 
@@ -733,13 +747,14 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [Online Whiteboard](https://awwapp.com): A simple online whiteboard that users can collaborate; Good for online meetings.
 * [MapInSeconds.com](http://www.mapinseconds.com/): Create maps with corresponding data quickly by copy-pasting from a spreadsheet.
 * [Unpay Wall](http://unpaywall.org/): legally download research papers for free.
+* [ToolStack](https://tools.mindutil.com/en): a free toolbox of 122 browser-based utilities (text, JSON, image, PDF, unit conversion, color) that run entirely client-side, with no signup and no file uploads.
 
 ***
 
-This is a CC BY-SA licensed project. Use the source! Keep the source open!
+This is a [CC BY-SA 4.0](LICENSE) licensed project. Use the source! Keep the source open!
 
 ![CC BY-SA](https://raw.githubusercontent.com/emptymalei/awesome-research/master/assets/cc_bysa.flat.guokr.png)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._

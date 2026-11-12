@@ -278,11 +278,11 @@
                 "id": 9852918,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-11T04:05:31Z",
-                "open_issues": 240,
+                "last_commit": "2026-11-12T06:12:23Z",
+                "open_issues": 241,
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55755,
+                "stars": 55787,
                 "topics": [
                   "blogging",
                   "cms",
@@ -423,7 +423,7 @@
                     "open_issues": 80,
                     "owner": "retext-project",
                     "repo": "retext",
-                    "stars": 2063,
+                    "stars": 2064,
                     "topics": [
                       "editor",
                       "markdown",
@@ -475,10 +475,10 @@
                     "language": "JavaScript",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-09-17T13:21:12Z",
-                    "open_issues": 178,
+                    "open_issues": 177,
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18329,
+                    "stars": 18336,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -508,10 +508,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-09T12:46:14Z",
-                "open_issues": 1279,
+                "open_issues": 1280,
                 "owner": "ipython",
                 "repo": "ipython",
-                "stars": 16803,
+                "stars": 16804,
                 "topics": [
                   "closember",
                   "data-science",
@@ -568,7 +568,7 @@
                 "open_issues": 131,
                 "owner": "fex-team",
                 "repo": "kityminder",
-                "stars": 4863,
+                "stars": 4862,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -660,7 +660,7 @@
                 "open_issues": 1,
                 "owner": "hizzgdev",
                 "repo": "jsmind",
-                "stars": 3794,
+                "stars": 3793,
                 "topics": [
                   "bsd",
                   "canvas",
@@ -798,10 +798,10 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-09-30T19:38:13Z",
-                    "open_issues": 931,
+                    "open_issues": 932,
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72553,
+                    "stars": 72559,
                     "topics": [
                       "presentations",
                       "slides",
@@ -826,7 +826,7 @@
                     "open_issues": 61,
                     "owner": "impress",
                     "repo": "impress.js",
-                    "stars": 38152,
+                    "stars": 38153,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -847,7 +847,7 @@
                     "open_issues": 42,
                     "owner": "imakewebthings",
                     "repo": "deck.js",
-                    "stars": 5415,
+                    "stars": 5414,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -889,7 +889,7 @@
                     "open_issues": 6,
                     "owner": "bespokejs",
                     "repo": "bespoke",
-                    "stars": 4791,
+                    "stars": 4792,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1049,7 +1049,7 @@
                     "open_issues": 19,
                     "owner": "amix",
                     "repo": "vimrc",
-                    "stars": 31795,
+                    "stars": 31794,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1070,7 +1070,7 @@
                     "open_issues": 204,
                     "owner": "VundleVim",
                     "repo": "Vundle.vim",
-                    "stars": 23900,
+                    "stars": 23899,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1083,11 +1083,11 @@
                 "id": 40997482,
                 "language": "Vim Script",
                 "license": "Vim",
-                "last_commit": "2026-11-10T21:32:35Z",
-                "open_issues": 1774,
+                "last_commit": "2026-11-11T21:08:06Z",
+                "open_issues": 1759,
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 41217,
+                "stars": 41314,
                 "topics": [
                   "c",
                   "cross-platform",
@@ -1176,7 +1176,7 @@
                 "open_issues": 0,
                 "owner": "shmlkv",
                 "repo": "dna-claude-analysis",
-                "stars": 60,
+                "stars": 61,
                 "topics": [
                   "analysis",
                   "claude",
@@ -1361,6 +1361,73 @@
                 ]
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
+            },
+            {
+              "node_type": "item",
+              "title": "citeguard",
+              "description": "Checks a / bibliography (or a single DOI) for cited papers that have been retracted, corrected, or flagged with an expression of concern, via Crossref and the Retraction Watch records it carries. Python library/CLI, MCP server, and GitHub Action; no API key.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Check citations for retractions, corrections, and expressions of concern via Crossref -- Python CLI/library, MCP server, and GitHub Action sharing one empirically-verified detection algorithm.",
+                "homepage": "https://github.com/wedo911/citeguard",
+                "id": 1346332966,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-26T16:24:11Z",
+                "open_issues": 0,
+                "owner": "wedo911",
+                "repo": "citeguard",
+                "stars": 1,
+                "topics": [
+                  "academic-writing",
+                  "bibliography",
+                  "citations",
+                  "cli",
+                  "crossref",
+                  "github-action",
+                  "mcp",
+                  "mcp-server",
+                  "open-science",
+                  "python",
+                  "research-integrity",
+                  "retraction-watch",
+                  "scholarly-metadata"
+                ]
+              },
+              "first_seen": "2026-11-12T06:32:50.224Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Reference Verifier",
+              "description": "Checks that every reference in a .bib file or LaTeX paper exists in Crossref, OpenAlex, DBLP, arXiv or PubMed, and flags invented papers and wrong DOIs. Open source (MIT).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Check that every reference in your paper exists: .bib and LaTeX bibliographies checked against Crossref, OpenAlex, DBLP, arXiv and PubMed.",
+                "homepage": "https://the-aurora-lab.github.io/tools/reference-verifier/?ref=github",
+                "id": 1431391601,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-02T10:37:06Z",
+                "open_issues": 0,
+                "owner": "the-aurora-lab",
+                "repo": "reference-verifier",
+                "stars": 0,
+                "topics": [
+                  "academia",
+                  "arxiv",
+                  "bibtex",
+                  "citations",
+                  "crossref",
+                  "hallucinated-citations",
+                  "latex",
+                  "openalex",
+                  "references",
+                  "research-integrity"
+                ]
+              },
+              "first_seen": "2026-11-12T06:32:50.224Z"
             }
           ],
           "description": null,
@@ -1382,10 +1449,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-08T20:58:07Z",
-                "open_issues": 1,
+                "open_issues": 7,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 30978,
+                "stars": 31003,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1613,16 +1680,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T05:28:04.271Z",
+    "last_updated": "2026-11-12T06:32:50.224Z",
     "original_repository_info": {
       "archived": false,
-      "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents using the following website]",
+      "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [I also maintain all the contents using the following website]",
       "homepage": "https://tools.kausalflow.com/tools",
       "id": 20195519,
       "language": null,
-      "license": null,
-      "last_commit": "2026-05-19T11:43:56Z",
-      "open_issues": 35,
+      "license": "CC-BY-SA-4.0",
+      "last_commit": "2026-11-11T10:52:35Z",
+      "open_issues": 23,
       "owner": "emptymalei",
       "repo": "awesome-research",
       "stars": 2817,
@@ -1637,7 +1704,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "4894f1f51eb8de6a4b4362eac30a339c60660c4d",
+    "original_repository_sha": "ad426f806b1b004adcac32857a94ac03a71a604b",
     "enhanced_repository": "enhansome/enhansome-research",
     "enhanced_repository_description": null,
     "title": "Awesome Research Tools with stars"
