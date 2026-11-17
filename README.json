@@ -42,7 +42,7 @@
                 "open_issues": 281,
                 "owner": "readthedocs",
                 "repo": "sphinx_rtd_theme",
-                "stars": 5116,
+                "stars": 5117,
                 "topics": [
                   "sphinx-doc",
                   "sphinx-theme"
@@ -66,7 +66,7 @@
                 "open_issues": 74,
                 "owner": "sphinx-doc",
                 "repo": "alabaster",
-                "stars": 780,
+                "stars": 781,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -162,7 +162,7 @@
                 "open_issues": 25,
                 "owner": "btford",
                 "repo": "write-good",
-                "stars": 5109,
+                "stars": 5110,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -258,6 +258,33 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
+            },
+            {
+              "node_type": "item",
+              "title": "research-kit",
+              "description": "Open command-line tools that check a paper before submission (references, numbers, anonymity, page limits), with a map of the best open projects for each stage of research.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open-source tools for every stage of research work: 13 of ours (commands and agent skills) and 171 more from GitHub, stage by stage, with what nothing covers yet.",
+                "homepage": "https://zch6a.github.io/research-kit/",
+                "id": 1457104894,
+                "language": "HTML",
+                "license": "MIT",
+                "last_commit": "2026-11-14T12:59:22Z",
+                "open_issues": 0,
+                "owner": "zch6a",
+                "repo": "research-kit",
+                "stars": 0,
+                "topics": [
+                  "agent-skills",
+                  "claude-code",
+                  "papers",
+                  "plugin-marketplace",
+                  "research"
+                ]
+              },
+              "first_seen": "2026-11-17T07:16:27.557Z"
             }
           ],
           "description": "Markdown is one of the best languages for writing. Check out these editor in Markdown section.\nMake use of these programs for publishing:\nSphinx Themes and configurations\nScience Books Using Sphinx\nHere are some examples of how sphinx can be used for research.\nWriting Tools\nJust use Visual Studio Code.",
@@ -278,11 +305,11 @@
                 "id": 9852918,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-16T01:48:22Z",
-                "open_issues": 240,
+                "last_commit": "2026-11-17T05:54:44Z",
+                "open_issues": 236,
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55831,
+                "stars": 55832,
                 "topics": [
                   "blogging",
                   "cms",
@@ -478,7 +505,7 @@
                     "open_issues": 172,
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18343,
+                    "stars": 18346,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -507,11 +534,11 @@
                 "id": 658518,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-09T12:46:14Z",
-                "open_issues": 1282,
+                "last_commit": "2026-11-16T16:25:56Z",
+                "open_issues": 1281,
                 "owner": "ipython",
                 "repo": "ipython",
-                "stars": 16807,
+                "stars": 16806,
                 "topics": [
                   "closember",
                   "data-science",
@@ -656,7 +683,7 @@
                 "id": 5562943,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-05-18T15:55:29Z",
+                "last_commit": "2026-11-17T03:50:21Z",
                 "open_issues": 0,
                 "owner": "hizzgdev",
                 "repo": "jsmind",
@@ -798,10 +825,10 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-09-30T19:38:13Z",
-                    "open_issues": 932,
+                    "open_issues": 931,
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72585,
+                    "stars": 72591,
                     "topics": [
                       "presentations",
                       "slides",
@@ -826,7 +853,7 @@
                     "open_issues": 61,
                     "owner": "impress",
                     "repo": "impress.js",
-                    "stars": 38154,
+                    "stars": 38153,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -864,11 +891,11 @@
                     "id": 1035184,
                     "language": "JavaScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-09T19:06:35Z",
+                    "last_commit": "2026-11-16T19:06:39Z",
                     "open_issues": 41,
                     "owner": "shower",
                     "repo": "shower",
-                    "stars": 4879,
+                    "stars": 4880,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -977,7 +1004,7 @@
                     "open_issues": 3,
                     "owner": "briancavalier",
                     "repo": "slides",
-                    "stars": 496,
+                    "stars": 497,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1049,7 +1076,7 @@
                     "open_issues": 19,
                     "owner": "amix",
                     "repo": "vimrc",
-                    "stars": 31800,
+                    "stars": 31803,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1070,7 +1097,7 @@
                     "open_issues": 204,
                     "owner": "VundleVim",
                     "repo": "Vundle.vim",
-                    "stars": 23902,
+                    "stars": 23904,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1084,10 +1111,10 @@
                 "language": "Vim Script",
                 "license": "Vim",
                 "last_commit": "2026-11-15T16:19:16Z",
-                "open_issues": 1808,
+                "open_issues": 1819,
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 41335,
+                "stars": 41294,
                 "topics": [
                   "c",
                   "cross-platform",
@@ -1200,6 +1227,37 @@
       "items": [
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Lacuna",
+              "description": "Search 2.3 million ML and AI papers, the researchers behind them, and the research directions they form; free, no account, with a read-only MCP server for AI assistants.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MCP server for Lacuna, a research map for machine learning: search directions, papers, authors, venues, and AI-generated research proposals.",
+                "homepage": "https://lacuna.tiptreesystems.com",
+                "id": 1306004280,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-15T18:56:52Z",
+                "open_issues": 0,
+                "owner": "tiptreesystems",
+                "repo": "lacuna-research-mcp",
+                "stars": 71,
+                "topics": [
+                  "ai-agents",
+                  "knowledge-graph",
+                  "literature-search",
+                  "machine-learning",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "python",
+                  "research"
+                ]
+              },
+              "first_seen": "2026-11-17T07:16:27.557Z"
+            },
             {
               "node_type": "item",
               "title": "citracer",
@@ -1449,10 +1507,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-12T12:36:25Z",
-                "open_issues": 6,
+                "open_issues": 5,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 31123,
+                "stars": 31155,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1660,7 +1718,7 @@
                 "open_issues": 3,
                 "owner": "EricFreeman",
                 "repo": "fuck",
-                "stars": 399,
+                "stars": 400,
                 "topics": [
                   "c-sharp",
                   "cli",
@@ -1680,7 +1738,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T05:39:39.324Z",
+    "last_updated": "2026-11-17T07:16:27.557Z",
     "original_repository_info": {
       "archived": false,
       "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [I also maintain all the contents using the following website]",
@@ -1688,8 +1746,8 @@
       "id": 20195519,
       "language": null,
       "license": "CC-BY-SA-4.0",
-      "last_commit": "2026-11-11T10:52:35Z",
-      "open_issues": 29,
+      "last_commit": "2026-11-16T11:52:55Z",
+      "open_issues": 25,
       "owner": "emptymalei",
       "repo": "awesome-research",
       "stars": 2823,
@@ -1704,7 +1762,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "ad426f806b1b004adcac32857a94ac03a71a604b",
+    "original_repository_sha": "a0a6892eeb43e7ced7fe1d0bf879d18a2e8b517a",
     "enhanced_repository": "enhansome/enhansome-research",
     "enhanced_repository_description": null,
     "title": "Awesome Research Tools with stars"
