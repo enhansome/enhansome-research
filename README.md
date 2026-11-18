@@ -1,6 +1,6 @@
 # Awesome Research Tools with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,159 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,670 | 🐛 104 | 📅 2026-09-02
 
 A list of tools for research. Also available on <https://tools.kausalflow.com/tools/>, with a page for each tool, open [JSON data](https://tools.kausalflow.com/tools.json), [RSS](https://tools.kausalflow.com/index.xml), [llms.txt](https://tools.kausalflow.com/llms.txt) and [AI access](https://tools.kausalflow.com/ai/).
 
@@ -125,7 +125,7 @@ Want to add a tool? See [CONTRIBUTING.md](CONTRIBUTING.md), or use the [submissi
 
 ## Cloud Services
 
-*For self-hosted services, check out [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) ⭐ 337,820 | 🐛 0 | 📅 2026-11-16 on GitHub.*
+*For self-hosted services, check out [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) ⭐ 338,179 | 🐛 0 | 📅 2026-11-17 on GitHub.*
 
 ### Math and Programming Online
 
@@ -239,7 +239,7 @@ Want to add a tool? See [CONTRIBUTING.md](CONTRIBUTING.md), or use the [submissi
 
 > Just use [Visual Studio Code](https://code.visualstudio.com/).
 
-* [write good](https://github.com/btford/write-good) ⭐ 5,110 | 🐛 25 | 🌐 JavaScript | 📅 2025-03-10: Naive JavaScript linter for English prose.
+* [write good](https://github.com/btford/write-good) ⭐ 5,111 | 🐛 25 | 🌐 JavaScript | 📅 2025-03-10: Naive JavaScript linter for English prose.
 * [proselint](https://github.com/amperser/proselint) ⭐ 4,603 | 🐛 236 | 🌐 JavaScript | 📅 2026-09-04: A linter for English prose using advice from *Garner's Modern American Usage* and more.
 * [Rousseau](https://github.com/GitbookIO/rousseau) ⚠️ Archived: Lightweight proofreader written in JavaScript.
 * [artbollocks-mode](https://github.com/sachac/artbollocks-mode) ⭐ 78 | 🐛 3 | 🌐 Emacs Lisp | 📅 2025-12-11: Emacs minor mode for avoiding cliches and bad grammar when writing about art (or other topics).
@@ -273,7 +273,7 @@ Want to add a tool? See [CONTRIBUTING.md](CONTRIBUTING.md), or use the [submissi
 
 > These programs are running on the server and can be [hosted using these services](#hosting).
 
-* [Ghost](https://github.com/tryghost/Ghost) ⭐ 55,832 | 🐛 236 | 🌐 TypeScript | 📅 2026-11-17 (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
+* [Ghost](https://github.com/tryghost/Ghost) ⭐ 55,847 | 🐛 236 | 🌐 TypeScript | 📅 2026-11-18 (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
 * [Pico](https://github.com/picocms/Pico) ⭐ 3,903 | 🐛 19 | 🌐 PHP | 📅 2026-07-07 (`PHP`): Lightweight cms, open source, no database.
 * [Dropplets](https://github.com/circa75/dropplets) ⭐ 1,610 | 🐛 6 | 🌐 PHP | 📅 2023-02-20 (`PHP`): Open source, simple, and elegant blog system; write in Markdown.
 * [GitBook](https://www.gitbook.com/) (`Cloud`): write in Markdown and collaborate with the team. GitBook integrates with GitHub so no content will be lost.
@@ -350,7 +350,7 @@ Notebook softwares that you can write in Markdown:
 
 **You can also host one using your own machine.**
 
-* [Overleaf Source Code](https://github.com/overleaf/overleaf) ⭐ 18,346 | 🐛 172 | 🌐 JavaScript | 📅 2026-09-17: Overleaf open sourced their codes. This is a great move I would say.
+* [Overleaf Source Code](https://github.com/overleaf/overleaf) ⭐ 18,350 | 🐛 172 | 🌐 JavaScript | 📅 2026-09-17: Overleaf open sourced their codes. This is a great move I would say.
 * [TeXStudio](http://www.texstudio.org) - Cross-platform LaTeX editor that stems from TeXMaker.
 * [WinEdt](http://www.winedt.com) - The LaTeX editor many people swear by.
 * [TeXnicCenter](http://www.texniccenter.org) - A quite old but free and decent editor for LaTeX.
@@ -367,7 +367,7 @@ Notebook softwares that you can write in Markdown:
 
 Use IPython Notebook to help with your research. IPython Notebook can be previewed on GitHub directly. Here are some examples of how IPython notebook can be used.
 
-* [More](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) ⭐ 16,806 | 🐛 1,281 | 🌐 Python | 📅 2026-11-16: For more IPython notebook on GitHub please read this enormous list.
+* [More](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) ⭐ 16,807 | 🐛 1,275 | 🌐 Python | 📅 2026-11-17: For more IPython notebook on GitHub please read this enormous list.
 * [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) ⭐ 3,663 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-06-02
 * [Reproduced Papers](http://reproduced-papers.github.io/)
 
@@ -382,7 +382,7 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 **Online**
 
 * [KityMinder By Baidu](https://github.com/fex-team/kityminder) ⭐ 4,863 | 🐛 131 | 🌐 JavaScript | 📅 2019-08-10 : Chinese Interface
-* [my-mind](http://my-mind.github.io/): repo [here](https://github.com/ondras/my-mind) ⭐ 3,372 | 🐛 59 | 🌐 TypeScript | 📅 2026-10-27.
+* [my-mind](http://my-mind.github.io/): repo [here](https://github.com/ondras/my-mind) ⭐ 3,373 | 🐛 59 | 🌐 TypeScript | 📅 2026-10-27.
 * [mindmaps](http://drichard.org/mindmaps/): repo [here](https://github.com/drichard/mindmaps) ⭐ 2,865 | 🐛 32 | 🌐 JavaScript | 📅 2023-02-05
 * [beautiful Mind](http://beautifulmind.io/): repo [here](https://github.com/ierror/BeautifulMind.io) ⭐ 118 | 🐛 4 | 🌐 Python | 📅 2015-02-27
 * [Mindmup](https://www.mindmup.com/): repo [here](https://github.com/mindmup)
@@ -443,9 +443,9 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 > Use [colors](https://github.com/mrmrs/colors) ⭐ 9,437 | 🐛 16 | 🌐 CSS | 📅 2023-07-20 to make your HTML feels better.
 
-* [Reveal.js](https://github.com/hakimel/reveal.js) ⭐ 72,591 | 🐛 931 | 🌐 JavaScript | 📅 2026-09-30
-* [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki) ⭐ 38,153 | 🐛 61 | 🌐 JavaScript | 📅 2026-07-23.
-* [Deck.js](https://github.com/imakewebthings/deck.js) ⭐ 5,414 | 🐛 42 | 🌐 JavaScript | 📅 2019-01-28
+* [Reveal.js](https://github.com/hakimel/reveal.js) ⭐ 72,597 | 🐛 931 | 🌐 JavaScript | 📅 2026-09-30
+* [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki) ⭐ 38,154 | 🐛 61 | 🌐 JavaScript | 📅 2026-07-23.
+* [Deck.js](https://github.com/imakewebthings/deck.js) ⭐ 5,415 | 🐛 42 | 🌐 JavaScript | 📅 2019-01-28
 * [Shower](https://github.com/shower/shower) ⭐ 4,880 | 🐛 41 | 🌐 JavaScript | 📅 2026-11-16
 * [Beckpoke.js](https://github.com/bespokejs/bespoke) ⭐ 4,793 | 🐛 6 | 🌐 JavaScript | 📅 2020-09-08
 * [CSSS](https://github.com/LeaVerou/CSSS) ⭐ 1,753 | 🐛 26 | 🌐 JavaScript | 📅 2026-09-17
@@ -489,9 +489,9 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 ### Code Editors
 
-* [vim](https://github.com/vim/vim) ⭐ 41,294 | 🐛 1,819 | 🌐 Vim Script | 📅 2026-11-15(`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
-  * [vimrc from amix](https://github.com/amix/vimrc) ⭐ 31,803 | 🐛 19 | 🌐 Vim Script | 📅 2024-10-06: "The ultimate Vim configuration: vimrc"
-  * [Vundle](https://github.com/VundleVim/Vundle.vim) ⭐ 23,904 | 🐛 204 | 🌐 Vim Script | 📅 2024-07-30: the vim plugin manager
+* [vim](https://github.com/vim/vim) ⭐ 41,393 | 🐛 1,804 | 🌐 Vim Script | 📅 2026-11-17(`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
+  * [vimrc from amix](https://github.com/amix/vimrc) ⭐ 31,805 | 🐛 19 | 🌐 Vim Script | 📅 2024-10-06: "The ultimate Vim configuration: vimrc"
+  * [Vundle](https://github.com/VundleVim/Vundle.vim) ⭐ 23,906 | 🐛 204 | 🌐 Vim Script | 📅 2024-07-30: the vim plugin manager
 * [Visual Studio Code, aka VS Code](https://code.visualstudio.com/)(`Free`,`Cross-platform`,`Plugins`): same technology as atom but faster than atom, and Microsoft made.
 * [Atom](https://atom.io/)(`Free`,`Cross-platform`,`Plugins`): electron based editor with numerous plugins and easy modifications. Cross-platform with settings and plugins synchronized through the [sync-settings](https://atom.io/packages/sync-settings) plugin.
 * [Sublime Text](https://www.sublimetext.com/)(`Free Evaluation`,`Cross-platform`,`Plugins`): cross-platform, fast, and with plugins. Not free but can be freely used forever.
@@ -534,7 +534,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 ### Investigate Papers
 
-* [Lacuna](https://lacuna.tiptreesystems.com): Search 2.3 million ML and AI papers, the researchers behind them, and the research directions they form; free, no account, with a read-only [MCP server](https://github.com/tiptreesystems/lacuna-research-mcp) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2026-11-15 for AI assistants.
+* [Lacuna](https://lacuna.tiptreesystems.com): Search 2.3 million ML and AI papers, the researchers behind them, and the research directions they form; free, no account, with a read-only [MCP server](https://github.com/tiptreesystems/lacuna-research-mcp) ⭐ 73 | 🐛 2 | 🌐 Python | 📅 2026-11-18 for AI assistants.
 * [citracer](https://github.com/marcpinet/citracer) ⭐ 40 | 🐛 0 | 🌐 Python | 📅 2026-11-12: Trace citation chains for any concept across research papers. Given a source PDF (or arXiv/DOI), recursively walks the citation graph and produces an interactive HTML visualization. Supports forward and reverse tracing.
 * [ODataMap](https://github.com/CherishChenCherish/odatamap) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-04 - Interactive map of global scientific research. Visualizes 250M+ papers across 7 knowledge continents with AI research assistant. [Demo](https://odatamap.cherishchen2510.workers.dev)
 * [Synthical](https://synthical.com): AI-powered collaborative research environment. You can use it to get recommendations of articles based on reading history, simplify papers, find out what articles are trending, search articles by meaning (not just keywords), create and share folders of articles, see lists of articles from specific companies and universities, and add highlights.
@@ -584,7 +584,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 ### Tips for Researchers
 
-* Check the [Academic Resources and Grey Literature List](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) ⭐ 31,155 | 🐛 5 | 📅 2026-11-12 of the [Awesome Open-Source Intelligence List](https://github.com/jivoi/awesome-osint) ⭐ 31,155 | 🐛 5 | 📅 2026-11-12 for search engines to search for papers.
+* Check the [Academic Resources and Grey Literature List](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) ⭐ 31,178 | 🐛 0 | 📅 2026-11-18 of the [Awesome Open-Source Intelligence List](https://github.com/jivoi/awesome-osint) ⭐ 31,178 | 🐛 0 | 📅 2026-11-18 for search engines to search for papers.
 * [Ten Simple Rules by PLoS One](http://collections.plos.org/ten-simple-rules): Series of quick "Ten Simple Rules" articles for research scientists to manage challenges in their careers. Number of articles are life-science specific, but rest the of articles are general enough for any researcher.
 * [ProfScout](https://profscout.com): Finds professors most likely to reply to research cold emails, ranked by reply-fit. Freemium.
 
@@ -761,4 +761,4 @@ This is a [CC BY-SA 4.0](LICENSE) licensed project. Use the source! Keep the sou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
