@@ -305,11 +305,11 @@
                 "id": 9852918,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-22T01:22:23Z",
-                "open_issues": 260,
+                "last_commit": "2026-11-23T02:00:56Z",
+                "open_issues": 263,
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55875,
+                "stars": 55882,
                 "topics": [
                   "blogging",
                   "cms",
@@ -446,7 +446,7 @@
                     "id": 42403944,
                     "language": "Python",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-11-14T14:09:34Z",
+                    "last_commit": "2026-11-22T16:59:09Z",
                     "open_issues": 81,
                     "owner": "retext-project",
                     "repo": "retext",
@@ -505,7 +505,7 @@
                     "open_issues": 171,
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18354,
+                    "stars": 18356,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -756,7 +756,7 @@
                 "open_issues": 12,
                 "owner": "tantaman",
                 "repo": "strut",
-                "stars": 1894,
+                "stars": 1893,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -828,7 +828,7 @@
                     "open_issues": 932,
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72615,
+                    "stars": 72617,
                     "topics": [
                       "presentations",
                       "slides",
@@ -853,7 +853,7 @@
                     "open_issues": 61,
                     "owner": "impress",
                     "repo": "impress.js",
-                    "stars": 38155,
+                    "stars": 38154,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1110,11 +1110,11 @@
                 "id": 40997482,
                 "language": "Vim Script",
                 "license": "Vim",
-                "last_commit": "2026-11-21T19:03:53Z",
-                "open_issues": 1789,
+                "last_commit": "2026-11-22T20:42:12Z",
+                "open_issues": 1792,
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 41345,
+                "stars": 41421,
                 "topics": [
                   "c",
                   "cross-platform",
@@ -1243,7 +1243,7 @@
                 "open_issues": 0,
                 "owner": "tiptreesystems",
                 "repo": "lacuna-research-mcp",
-                "stars": 76,
+                "stars": 77,
                 "topics": [
                   "ai-agents",
                   "knowledge-graph",
@@ -1506,11 +1506,11 @@
                 "id": 75189212,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-21T16:08:00Z",
+                "last_commit": "2026-11-22T17:42:14Z",
                 "open_issues": 2,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 31313,
+                "stars": 31333,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1738,7 +1738,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T05:53:18.428Z",
+    "last_updated": "2026-11-23T06:41:51.490Z",
     "original_repository_info": {
       "archived": false,
       "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [I also maintain all the contents using the following website]",
@@ -1747,10 +1747,10 @@
       "language": null,
       "license": "CC-BY-SA-4.0",
       "last_commit": "2026-11-16T11:52:55Z",
-      "open_issues": 26,
+      "open_issues": 29,
       "owner": "emptymalei",
       "repo": "awesome-research",
-      "stars": 2833,
+      "stars": 2834,
       "topics": [
         "awesome",
         "awesome-list",
