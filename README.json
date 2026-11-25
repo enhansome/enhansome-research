@@ -21,7 +21,7 @@
                 "open_issues": 23,
                 "owner": "schacon",
                 "repo": "git-scribe",
-                "stars": 1348,
+                "stars": 1349,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -39,10 +39,10 @@
                 "language": "Sass",
                 "license": "MIT",
                 "last_commit": "2026-01-12T16:02:04Z",
-                "open_issues": 281,
+                "open_issues": 282,
                 "owner": "readthedocs",
                 "repo": "sphinx_rtd_theme",
-                "stars": 5118,
+                "stars": 5117,
                 "topics": [
                   "sphinx-doc",
                   "sphinx-theme"
@@ -66,7 +66,7 @@
                 "open_issues": 74,
                 "owner": "sphinx-doc",
                 "repo": "alabaster",
-                "stars": 781,
+                "stars": 780,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -162,7 +162,7 @@
                 "open_issues": 25,
                 "owner": "btford",
                 "repo": "write-good",
-                "stars": 5111,
+                "stars": 5112,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -183,7 +183,7 @@
                 "open_issues": 236,
                 "owner": "amperser",
                 "repo": "proselint",
-                "stars": 4603,
+                "stars": 4604,
                 "topics": [
                   "advice",
                   "knowledge",
@@ -233,7 +233,7 @@
                 "open_issues": 3,
                 "owner": "sachac",
                 "repo": "artbollocks-mode",
-                "stars": 78,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -275,7 +275,7 @@
                 "open_issues": 0,
                 "owner": "zch6a",
                 "repo": "research-kit",
-                "stars": 0,
+                "stars": 1,
                 "topics": [
                   "agent-skills",
                   "claude-code",
@@ -305,11 +305,11 @@
                 "id": 9852918,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-24T09:03:29Z",
-                "open_issues": 272,
+                "last_commit": "2026-11-25T07:14:52Z",
+                "open_issues": 274,
                 "owner": "TryGhost",
                 "repo": "Ghost",
-                "stars": 55893,
+                "stars": 55902,
                 "topics": [
                   "blogging",
                   "cms",
@@ -447,7 +447,7 @@
                     "language": "Python",
                     "license": "GPL-2.0",
                     "last_commit": "2026-11-23T11:33:55Z",
-                    "open_issues": 80,
+                    "open_issues": 82,
                     "owner": "retext-project",
                     "repo": "retext",
                     "stars": 2066,
@@ -505,7 +505,7 @@
                     "open_issues": 172,
                     "owner": "overleaf",
                     "repo": "overleaf",
-                    "stars": 18361,
+                    "stars": 18367,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -538,7 +538,7 @@
                 "open_issues": 1271,
                 "owner": "ipython",
                 "repo": "ipython",
-                "stars": 16808,
+                "stars": 16812,
                 "topics": [
                   "closember",
                   "data-science",
@@ -567,7 +567,7 @@
                 "open_issues": 15,
                 "owner": "jrjohansson",
                 "repo": "scientific-python-lectures",
-                "stars": 3664,
+                "stars": 3663,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -687,7 +687,7 @@
                 "open_issues": 0,
                 "owner": "hizzgdev",
                 "repo": "jsmind",
-                "stars": 3793,
+                "stars": 3795,
                 "topics": [
                   "bsd",
                   "canvas",
@@ -756,7 +756,7 @@
                 "open_issues": 12,
                 "owner": "tantaman",
                 "repo": "strut",
-                "stars": 1893,
+                "stars": 1892,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -828,7 +828,7 @@
                     "open_issues": 931,
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72620,
+                    "stars": 72626,
                     "topics": [
                       "presentations",
                       "slides",
@@ -853,7 +853,7 @@
                     "open_issues": 61,
                     "owner": "impress",
                     "repo": "impress.js",
-                    "stars": 38155,
+                    "stars": 38153,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -874,7 +874,7 @@
                     "open_issues": 42,
                     "owner": "imakewebthings",
                     "repo": "deck.js",
-                    "stars": 5416,
+                    "stars": 5417,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -891,11 +891,11 @@
                     "id": 1035184,
                     "language": "JavaScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-16T19:06:39Z",
-                    "open_issues": 41,
+                    "last_commit": "2026-11-24T12:42:15Z",
+                    "open_issues": 40,
                     "owner": "shower",
                     "repo": "shower",
-                    "stars": 4881,
+                    "stars": 4880,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -916,7 +916,7 @@
                     "open_issues": 6,
                     "owner": "bespokejs",
                     "repo": "bespoke",
-                    "stars": 4792,
+                    "stars": 4791,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1076,7 +1076,7 @@
                     "open_issues": 19,
                     "owner": "amix",
                     "repo": "vimrc",
-                    "stars": 31803,
+                    "stars": 31801,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1097,7 +1097,7 @@
                     "open_issues": 204,
                     "owner": "VundleVim",
                     "repo": "Vundle.vim",
-                    "stars": 23907,
+                    "stars": 23906,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1110,11 +1110,11 @@
                 "id": 40997482,
                 "language": "Vim Script",
                 "license": "Vim",
-                "last_commit": "2026-11-23T21:39:08Z",
-                "open_issues": 1803,
+                "last_commit": "2026-11-24T22:10:19Z",
+                "open_issues": 1783,
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 41328,
+                "stars": 41354,
                 "topics": [
                   "c",
                   "cross-platform",
@@ -1239,7 +1239,7 @@
                 "id": 1306004280,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-19T13:51:29Z",
+                "last_commit": "2026-11-24T17:28:45Z",
                 "open_issues": 0,
                 "owner": "tiptreesystems",
                 "repo": "lacuna-research-mcp",
@@ -1274,7 +1274,7 @@
                 "open_issues": 0,
                 "owner": "marcpinet",
                 "repo": "citracer",
-                "stars": 40,
+                "stars": 41,
                 "topics": [
                   "academic-research",
                   "bibliography",
@@ -1507,10 +1507,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-22T17:42:14Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 31357,
+                "stars": 31371,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1548,7 +1548,7 @@
                 "open_issues": 1,
                 "owner": "jbmouret",
                 "repo": "matplotlib_for_papers",
-                "stars": 2204,
+                "stars": 2205,
                 "topics": []
               },
               "first_seen": "2026-08-28T10:26:16.843Z"
@@ -1738,7 +1738,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T09:10:04.871Z",
+    "last_updated": "2026-11-25T07:45:37.877Z",
     "original_repository_info": {
       "archived": false,
       "description": ":seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [I also maintain all the contents using the following website]",
@@ -1747,10 +1747,10 @@
       "language": null,
       "license": "CC-BY-SA-4.0",
       "last_commit": "2026-11-16T11:52:55Z",
-      "open_issues": 30,
+      "open_issues": 32,
       "owner": "emptymalei",
       "repo": "awesome-research",
-      "stars": 2834,
+      "stars": 2836,
       "topics": [
         "awesome",
         "awesome-list",
